@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Defs>
+
+	<ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+		<defName>MeleeWeapon_Thurible</defName>
+		<label>thurible</label>
+		<description>A shiny incense burner.</description>
+		<graphicData>
+			<texPath>Things/Weapons/Thurible</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+    <techLevel>Medieval</techLevel>
+		<costStuffCount>45</costStuffCount>
+		<statBases>
+			<WorkToMake>80000</WorkToMake>
+			<Mass>2.00</Mass>
+		</statBases>
+		<equippedAngleOffset>-65</equippedAngleOffset>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+    <weaponTags>
+      <li>HarrowedMeleeFancy</li>
+    </weaponTags>
+    <tools>
+      <li>
+        <label>censer</label>
+        <labelUsedInLogging>false</labelUsedInLogging>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>15.0</power>
+        <cooldownTime>3.0</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  
+  	<ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+		<defName>MeleeWeapon_CandleHolder</defName>
+		<label>candle holder</label>
+		<description>A large candlestick.</description>
+		<graphicData>
+			<texPath>Things/Weapons/CandleHolder</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+    <techLevel>Medieval</techLevel>
+		<costStuffCount>50</costStuffCount>
+		<statBases>
+			<WorkToMake>90000</WorkToMake>
+			<Mass>5.00</Mass>
+		</statBases>
+		<equippedAngleOffset>-10</equippedAngleOffset>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+    <weaponTags>
+      <li>HarrowedMelee</li>
+    </weaponTags>
+    <tools>
+      <li>
+        <label>shaft</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>2.0</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  
+    <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+		<defName>MeleeWeapon_Crosier</defName>
+		<label>crosier</label>
+		<description>A beautiful staff.</description>
+		<graphicData>
+			<texPath>Things/Weapons/Crosier</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+    <techLevel>Medieval</techLevel>
+		<costStuffCount>70</costStuffCount>
+		<statBases>
+			<WorkToMake>90000</WorkToMake>
+			<Mass>5.00</Mass>
+		</statBases>
+		<equippedAngleOffset>-40</equippedAngleOffset>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+    <weaponTags>
+      <li>HarrowedMeleeFancy</li>
+    </weaponTags>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>13.5</power>
+        <cooldownTime>3.4</cooldownTime>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>15</power>
+        <cooldownTime>4.0</cooldownTime>
+      </li>
+    </tools>
+ </ThingDef>
+ 
+	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>MeleeWeapon_Whip</defName>
+    <label>whip</label>
+    <description>A worn leather whip.</description>
+    <graphicData>
+      <texPath>Things/Weapons/Whip</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Medieval</techLevel>
+    <weaponTags>
+      <li>HarrowedMeleeWhip</li>
+    </weaponTags>
+    <costStuffCount>20</costStuffCount>
+    <statBases>
+      <WorkToMake>1000</WorkToMake>
+      <Mass>0.5</Mass>
+    </statBases>
+    <equippedAngleOffset>-60</equippedAngleOffset>
+    <stuffCategories>
+      <li>Leathery</li>
+    </stuffCategories>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>3</power>
+        <cooldownTime>1.5</cooldownTime>
+      </li>
+      <li>
+        <label>lashes</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>2.0</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  
+  	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+		<defName>MeleeWeapon_Banner</defName>
+		<label>banner</label>
+		<description>A weather-worn, hand-painted Harrow banner with a sharp tip.</description>
+		<graphicData>
+			<texPath>Things/Weapons/Banner</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+		<weaponTags>
+      <li>HarrowedMeleeFancy</li>
+		</weaponTags>
+		<costStuffCount>50</costStuffCount>
+		<statBases>
+			<WorkToMake>10000</WorkToMake>
+			<Mass>1</Mass>
+		</statBases>
+		<equippedAngleOffset>-120</equippedAngleOffset>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+    <tools>
+      <li>
+        <label>shaft</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>2.5</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>12.5</power>
+        <cooldownTime>2.4</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  
+    <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+		<defName>MeleeWeapon_Stake</defName>
+		<label>stake</label>
+		<description>A stake.</description>
+		<graphicData>
+			<texPath>Things/Weapons/Stake</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+		<weaponTags>
+      <li>HarrowedMelee</li>
+		</weaponTags>
+		<costStuffCount>20</costStuffCount>
+		<statBases>
+			<WorkToMake>700</WorkToMake>
+			<Mass>0.4</Mass>
+		</statBases>
+		<equippedAngleOffset>-60</equippedAngleOffset>
+		<stuffCategories>
+	        <li>Metallic</li>
+	        <li>Woody</li>
+	        <li>Stony</li>
+		</stuffCategories>
+    <tools>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>7.0</power>
+        <cooldownTime>1.0</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  
+  	<ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>MeleeWeapon_ChampionSword</defName>
+    <label>champion's sword</label>
+    <description>A glistening sword.</description>
+    <graphicData>
+      <texPath>Things/Weapons/ChampionSword</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <techLevel>Medieval</techLevel>
+    <weaponTags>
+      <li>HarrowedMeleeChampion</li>
+    </weaponTags>
+    <costStuffCount>130</costStuffCount>
+    <statBases>
+      <WorkToMake>90500</WorkToMake>
+      <Mass>2.5</Mass>
+    </statBases>
+    <equippedAngleOffset>-65</equippedAngleOffset>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2.7</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>20</power>
+        <cooldownTime>2.8</cooldownTime>
+      </li>
+      <li>
+        <label>edge</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>27</power>
+        <cooldownTime>3.0</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  
+    <ThingDef ParentName="BaseMeleeWeapon_Blunt_Quality">
+		<defName>MeleeWeapon_ChampionFlail</defName>
+		<label>champion's flail</label>
+		<description>A massive flail.</description>
+		<graphicData>
+			<texPath>Things/Weapons/Flail</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+    <techLevel>Medieval</techLevel>
+		<costStuffCount>100</costStuffCount>
+		<statBases>
+			<WorkToMake>90000</WorkToMake>
+			<Mass>5.00</Mass>
+		</statBases>
+		<equippedAngleOffset>-70</equippedAngleOffset>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+    <weaponTags>
+      <li>HarrowedMeleeCommander</li>
+    </weaponTags>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>12.0</power>
+        <cooldownTime>3.4</cooldownTime>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>20</power>
+        <cooldownTime>4.1</cooldownTime>
+      </li>
+    </tools>
+ </ThingDef>
+ 
+ </Defs>
+  

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <BodyPartGroupDef>
+    <defName>ObjectOfWorship</defName>
+    <label>object of worship</label>
+  </BodyPartGroupDef>
+  
+    <BodyPartGroupDef>
+    <defName>HarrowedTentacleRight</defName>
+    <label>massive tentacle</label>
+  </BodyPartGroupDef>
+    
+    <BodyPartGroupDef>
+    <defName>HarrowedTentacleLeft</defName>
+    <label>massive tentacle</label>
+  </BodyPartGroupDef>
+  
+</Defs>

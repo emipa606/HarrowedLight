@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RulePackDef>
+    <defName>NamerHarrowBase</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name->[HarrowB] [HarrowA]</li>
+        <li>name->[HarrowA]</li>
+      </rulesStrings>
+      <rulesRaw>
+        <li Class="Rule_File">
+          <keyword>HarrowA</keyword>
+          <path>NameBanks/HarrowA</path>
+        </li>
+        <li Class="Rule_File">
+          <keyword>HarrowB</keyword>
+          <path>NameBanks/HarrowB</path>
+        </li>
+      </rulesRaw>
+    </rulePack>
+  </RulePackDef>
+
+</Defs>
+
+
+
+
+
+
+

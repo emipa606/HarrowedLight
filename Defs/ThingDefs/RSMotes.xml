@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="MoteBase">
+    <defName>Mote_Null</defName>
+    <graphicData>
+      <texPath>Mote/NullMote</texPath>
+      <shaderType>MoteGlow</shaderType>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <mote>
+      <solidTime>0</solidTime>
+      <fadeInTime>0.06</fadeInTime>
+      <fadeOutTime>0.08</fadeOutTime>
+    </mote>
+  </ThingDef>
+
+</Defs>

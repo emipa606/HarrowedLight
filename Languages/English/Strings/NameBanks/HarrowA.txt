@@ -1,0 +1,11 @@
+﻿worshipers 
+believers
+executors
+priests
+pastors
+prophets
+witnesses
+saints
+purgers
+penitents
+purifiers

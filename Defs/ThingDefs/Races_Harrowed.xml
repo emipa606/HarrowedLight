@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+  <ThingDef ParentName="BasePawn" Name="BaseMadman" Abstract="True">
+    <soundImpactDefault>BulletImpact_Flesh</soundImpactDefault>
+    <statBases>
+      <PsychicSensitivity>0.3</PsychicSensitivity>
+      <Flammability>1</Flammability>
+      <ComfyTemperatureMin>-45</ComfyTemperatureMin>
+      <ComfyTemperatureMax>45</ComfyTemperatureMax>
+    </statBases>
+    <race>
+      <meatColor>(200,135,100)</meatColor>
+      <hasGenders>false</hasGenders>
+      <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
+    </race>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseMadman">
+    <defName>Harrowed_Madman</defName>
+    <label>madman</label>
+    <description>A rambling maniac wielding a massive wooden object of worship.</description>
+    <statBases>
+      <MoveSpeed>4.2</MoveSpeed>
+      <ArmorRating_Blunt>0.3</ArmorRating_Blunt>
+      <LeatherAmount>40</LeatherAmount>
+    </statBases>
+    <tools>
+      <li>
+        <label>object of worship</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>30</power>
+        <cooldownTime>2.00</cooldownTime>
+        <linkedBodyPartsGroup>ObjectOfWorship</linkedBodyPartsGroup>
+        <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+      </li>
+	  <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>1.65</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <thinkTreeMain>Humanlike</thinkTreeMain>
+      <intelligence>ToolUser</intelligence>
+      <body>HarrowedMadman</body>
+      <useMeatFrom>Human</useMeatFrom>
+      <predator>true</predator>
+      <baseHungerRate>0.15</baseHungerRate>
+      <lifeExpectancy>80</lifeExpectancy>
+      <baseBodySize>2.5</baseBodySize>
+      <baseHealthScale>4</baseHealthScale>
+      <lifeStageAges>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0</minAge>
+          <soundWounded>Pawn_Bear_Injured</soundWounded>
+          <soundDeath>Pawn_Bear_Death</soundDeath>
+          <soundCall>Pawn_Bear_Call</soundCall>
+          <soundAngry>Pawn_Bear_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundCallIntervalRange>
+        <min>1000</min>
+        <max>2000</max>
+      </soundCallIntervalRange>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <leatherDef>Leather_Human</leatherDef>
+    </race>
+  </ThingDef>
+  
+    <ThingDef ParentName="BaseMadman">
+    <defName>Harrowed_Baptized</defName>
+    <label>baptized female</label>
+    <description>A Harrowed cultist that has completly offered herself to the primordial gods.</description>
+    <statBases>
+      <MoveSpeed>4.0</MoveSpeed>
+      <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
+	  <ArmorRating_Sharp>0.3</ArmorRating_Sharp>
+      <LeatherAmount>80</LeatherAmount>
+    </statBases>
+   <tools>
+         <li>
+        <label>left tentacle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>20</power>
+        <cooldownTime>2.3</cooldownTime>
+        <linkedBodyPartsGroup>HarrowedTentacleLeft</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>25</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+	  
+      <li>
+        <label>right tentacle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>20</power>
+        <cooldownTime>2.3</cooldownTime>
+        <linkedBodyPartsGroup>HarrowedTentacleRight</linkedBodyPartsGroup>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>25</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+	  
+      <li>
+        <label>left fist</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+		<chanceFactor>0.2</chanceFactor>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>22</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>right fist</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>7</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+		<chanceFactor>0.2</chanceFactor>
+        <surpriseAttack>
+          <extraMeleeDamages>
+            <li>
+              <def>Stun</def>
+              <amount>22</amount>
+            </li>
+          </extraMeleeDamages>
+        </surpriseAttack>
+      </li>
+      <li>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>5</power>
+        <cooldownTime>1.8</cooldownTime>
+        <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
+        <chanceFactor>0.2</chanceFactor>
+      </li>
+    </tools>
+    <race>
+      <thinkTreeMain>Humanlike</thinkTreeMain>
+      <intelligence>ToolUser</intelligence>
+      <body>HarrowedBaptized</body>
+      <useMeatFrom>Human</useMeatFrom>
+      <predator>true</predator>
+      <baseHungerRate>0.15</baseHungerRate>
+      <lifeExpectancy>80</lifeExpectancy>
+      <baseBodySize>3.0</baseBodySize>
+      <baseHealthScale>4</baseHealthScale>
+      <lifeStageAges>
+        <li>
+          <def>AnimalAdult</def>
+          <minAge>0</minAge>
+          <soundWounded>Pawn_Bear_Injured</soundWounded>
+          <soundDeath>Pawn_Bear_Death</soundDeath>
+          <soundCall>Pawn_Bear_Call</soundCall>
+          <soundAngry>Pawn_Bear_Angry</soundAngry>
+        </li>
+      </lifeStageAges>
+      <soundCallIntervalRange>
+        <min>1000</min>
+        <max>2000</max>
+      </soundCallIntervalRange>
+      <soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
+      <leatherDef>Leather_Human</leatherDef>
+    </race>
+  </ThingDef>
+  
+</Defs>
