@@ -6,6 +6,7 @@
 	<label>Harrow conglomerate</label>
     <description>Mysterious beliefs grow anew in distant worlds. Such The Harrow came to be. With fire and incense they seek to spread their faith among the denizens of this wretched planet.</description>
     <pawnsPlural>harrowed</pawnsPlural>
+    <permanentEnemy>true</permanentEnemy>
     <settlementGenerationWeight>0.5</settlementGenerationWeight>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
     <canMakeRandomly>true</canMakeRandomly>
