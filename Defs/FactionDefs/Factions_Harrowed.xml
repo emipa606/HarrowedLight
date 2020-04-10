@@ -24,10 +24,6 @@
       <li>(0.53, 0.53, 0.53)</li>
       <li>(0.53, 0.53, 0.53)</li>
     </colorSpectrum>
-    <startingGoodwill>
-      <min>-80</min>
-      <max>-50</max>
-    </startingGoodwill>
 	<factionNameMaker>NamerHarrowBase</factionNameMaker>
 	<settlementNameMaker>NamerHarrowBase</settlementNameMaker>
 	<techLevel>Industrial</techLevel>	
@@ -43,10 +39,6 @@
 		<li>Urban</li>
 		<li>Rural</li>
 	</hairTags>
-    <naturalColonyGoodwill>
-      <min>-100</min>
-      <max>10</max>
-    </naturalColonyGoodwill>
     <allowedArrivalTemperatureRange>
       <min>-40</min>
       <max>50</max>
