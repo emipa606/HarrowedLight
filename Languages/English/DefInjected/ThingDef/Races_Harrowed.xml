@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Harrowed_Madman.label>madman</Harrowed_Madman.label>
+  <Harrowed_Madman.description>A rambling maniac wielding a massive wooden object of worship.</Harrowed_Madman.description>
+  <Harrowed_Madman.tools.0.label>object of worship</Harrowed_Madman.tools.0.label>
+  <Harrowed_Madman.tools.1.label>head</Harrowed_Madman.tools.1.label>
+
+  <Harrowed_Baptized.label>baptized female</Harrowed_Baptized.label>
+  <Harrowed_Baptized.description>A Harrowed cultist that has completly offered herself to the primordial gods.</Harrowed_Baptized.description>
+  <Harrowed_Baptized.tools.0.label>left tentacle</Harrowed_Baptized.tools.0.label>
+  <Harrowed_Baptized.tools.1.label>right tentacle</Harrowed_Baptized.tools.1.label>
+  <Harrowed_Baptized.tools.2.label>left fist</Harrowed_Baptized.tools.2.label>
+  <Harrowed_Baptized.tools.3.label>right fist</Harrowed_Baptized.tools.3.label>
+  <Harrowed_Baptized.tools.4.label>head</Harrowed_Baptized.tools.4.label>
+
+
+</LanguageData>

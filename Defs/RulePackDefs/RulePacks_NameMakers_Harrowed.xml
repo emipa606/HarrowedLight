@@ -1,12 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <RulePackDef>
     <defName>NamerHarrowBase</defName>
     <rulePack>
       <rulesStrings>
-        <li>name->[HarrowB] [HarrowA]</li>
-        <li>name->[HarrowA]</li>
+        <li>name-&gt;[HarrowB] [HarrowA]</li>
+        <li>name-&gt;[HarrowA]</li>
       </rulesStrings>
       <rulesRaw>
         <li Class="Rule_File">
@@ -20,12 +19,4 @@
       </rulesRaw>
     </rulePack>
   </RulePackDef>
-
 </Defs>
-
-
-
-
-
-
-

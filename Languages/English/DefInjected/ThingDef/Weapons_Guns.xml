@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bullet types -->
+
+  <Bullet_Purifier.label>flame</Bullet_Purifier.label>
+  <Bullet_HarrowFistShotgun.label>fist shotgun blast</Bullet_HarrowFistShotgun.label>
+  <Bullet_Fulger.label>lightning bolt</Bullet_Fulger.label>
+
+
+  <!-- Harrowed Purifier -->
+
+  <Gun_HarrowPurifier.label>purifier</Gun_HarrowPurifier.label>
+  <Gun_HarrowPurifier.description>Sanctified fire.</Gun_HarrowPurifier.description>
+  <Gun_HarrowPurifier.tools.0.label>barrel</Gun_HarrowPurifier.tools.0.label>
+
+
+  <!-- Harrowed Fist Shotgun -->
+
+  <Gun_HarrowFistShotgun.label>fist shotgun</Gun_HarrowFistShotgun.label>
+  <Gun_HarrowFistShotgun.description>An adorned shotgun variant that wraps around one's fist.</Gun_HarrowFistShotgun.description>
+  <Gun_HarrowFistShotgun.tools.0.label>barrel</Gun_HarrowFistShotgun.tools.0.label>
+
+
+  <!-- Harrowed Ocelot -->
+
+  <Gun_OcelotRifle.label>Ocelot</Gun_OcelotRifle.label>
+  <Gun_OcelotRifle.description>A powerful sniper rifle with a cylinder.</Gun_OcelotRifle.description>
+  <Gun_OcelotRifle.tools.0.label>stock</Gun_OcelotRifle.tools.0.label>
+  <Gun_OcelotRifle.tools.1.label>barrel</Gun_OcelotRifle.tools.1.label>
+
+
+  <!-- Harrowed Fulger -->
+
+  <Gun_Fulger.label>Fulger lightning gun</Gun_Fulger.label>
+  <Gun_Fulger.description>Tame and weaponize the forces of nature.</Gun_Fulger.description>
+  <Gun_Fulger.tools.0.label>stock</Gun_Fulger.tools.0.label>
+  <Gun_Fulger.tools.1.label>barrel</Gun_Fulger.tools.1.label>
+
+
+  <!-- Harrowed "The Cure" -->
+
+  <Gun_TheCure.label>The Cure</Gun_TheCure.label>
+  <Gun_TheCure.description>An assault rifle used by the plague eradicators to cleanse rowdy infected.</Gun_TheCure.description>
+  <Gun_TheCure.tools.0.label>stock</Gun_TheCure.tools.0.label>
+  <Gun_TheCure.tools.1.label>barrel</Gun_TheCure.tools.1.label>
+
+
+</LanguageData>

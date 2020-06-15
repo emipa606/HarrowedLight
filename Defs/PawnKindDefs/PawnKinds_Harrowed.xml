@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
   <PawnKindDef Name="Flagellant">
     <defName>HarrowedFlagellant</defName>
     <label>flagellant</label>
@@ -18,7 +16,7 @@
       <max>2.3</max>
     </gearHealthRange>
     <apparelRequired>
-	  <li>Apparel_HFmask</li>
+      <li>Apparel_HFmask</li>
     </apparelRequired>
     <apparelAllowHeadgearChance>0.1</apparelAllowHeadgearChance>
     <apparelMoney>
@@ -60,8 +58,7 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-  
-    <PawnKindDef>
+  <PawnKindDef>
     <defName>HarrowedMilitant</defName>
     <label>militant</label>
     <race>Human</race>
@@ -77,8 +74,8 @@
       <max>2.3</max>
     </gearHealthRange>
     <apparelRequired>
-	  <li>Apparel_HarrowedCassock</li>
-	  <li>Apparel_MilitantVeil</li>
+      <li>Apparel_HarrowedCassock</li>
+      <li>Apparel_MilitantVeil</li>
     </apparelRequired>
     <apparelAllowHeadgearChance>0.1</apparelAllowHeadgearChance>
     <apparelMoney>
@@ -91,7 +88,7 @@
     </weaponMoney>
     <weaponTags>
       <li>HarrowedMelee</li>
-	  <li>HarrowedShotgun</li>
+      <li>HarrowedShotgun</li>
     </weaponTags>
     <techHediffsMoney>
       <min>1000</min>
@@ -121,7 +118,6 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-
   <PawnKindDef>
     <defName>HarrowedPurger</defName>
     <label>purger</label>
@@ -139,7 +135,7 @@
     </gearHealthRange>
     <apparelRequired>
       <li>Apparel_HPsuit</li>
-	  <li>Apparel_HPmask</li>
+      <li>Apparel_HPmask</li>
     </apparelRequired>
     <apparelAllowHeadgearChance>0.1</apparelAllowHeadgearChance>
     <apparelMoney>
@@ -151,7 +147,7 @@
       <max>20000</max>
     </weaponMoney>
     <weaponTags>
-	  <li>HarrowedPurifier</li>
+      <li>HarrowedPurifier</li>
     </weaponTags>
     <techHediffsMoney>
       <min>1000</min>
@@ -181,8 +177,6 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-
-  
   <PawnKindDef>
     <defName>HarrowedPriest</defName>
     <label>priest</label>
@@ -212,7 +206,7 @@
     </weaponMoney>
     <weaponTags>
       <li>HarrowedMeleeFancy</li>
-	  <li>HarrowedShotgun</li>
+      <li>HarrowedShotgun</li>
     </weaponTags>
     <techHediffsMoney>
       <min>5000</min>
@@ -242,8 +236,7 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-  
-      <PawnKindDef>
+  <PawnKindDef>
     <defName>HarrowedCommander</defName>
     <label>commander</label>
     <combatPower>150</combatPower>
@@ -272,7 +265,7 @@
     </weaponMoney>
     <weaponTags>
       <li>HarrowedMeleeCommander</li>
-	  <li>HarrowedOcelotRifle</li>
+      <li>HarrowedOcelotRifle</li>
     </weaponTags>
     <techHediffsMoney>
       <min>2000</min>
@@ -302,8 +295,7 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-
-    <PawnKindDef>
+  <PawnKindDef>
     <defName>HarrowedChampion</defName>
     <label>champion</label>
     <combatPower>250</combatPower>
@@ -332,7 +324,7 @@
     </weaponMoney>
     <weaponTags>
       <li>HarrowedMeleeChampion</li>
-	  <li>HarrowedFulger</li>
+      <li>HarrowedFulger</li>
     </weaponTags>
     <techHediffsMoney>
       <min>2000</min>
@@ -362,8 +354,7 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-
-  <PawnKindDef Abstract="True" Name="HarrowedEliteBase" >
+  <PawnKindDef Abstract="True" Name="HarrowedEliteBase">
     <race>Human</race>
     <defaultFactionType>Harrowed</defaultFactionType>
     <baseRecruitDifficulty>0.70</baseRecruitDifficulty>
@@ -414,7 +405,6 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-  
   <PawnKindDef ParentName="HarrowedEliteBase">
     <defName>HarrowedLeader</defName>
     <label>leader</label>
@@ -424,8 +414,6 @@
       <li>HarrowedMeleeFancy</li>
     </weaponTags>
   </PawnKindDef>
-  
-  
   <PawnKindDef>
     <defName>HarrowedPlagueEradicator</defName>
     <label>plague eradicator</label>
@@ -443,7 +431,7 @@
     </gearHealthRange>
     <apparelRequired>
       <li>Apparel_PlagueEradicatorHelmetTwo</li>
-	  <li>Apparel_PlagueEradicatorArmor</li>
+      <li>Apparel_PlagueEradicatorArmor</li>
     </apparelRequired>
     <apparelAllowHeadgearChance>0.1</apparelAllowHeadgearChance>
     <apparelMoney>
@@ -455,7 +443,7 @@
       <max>20000</max>
     </weaponMoney>
     <weaponTags>
-	  <li>HarrowedTheCure</li>
+      <li>HarrowedTheCure</li>
     </weaponTags>
     <techHediffsMoney>
       <min>1000</min>
@@ -485,8 +473,7 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-  
- <PawnKindDef>
+  <PawnKindDef>
     <defName>HarrowedPlagueCleanser</defName>
     <label>plague cleanser</label>
     <race>Human</race>
@@ -503,7 +490,7 @@
     </gearHealthRange>
     <apparelRequired>
       <li>Apparel_PlagueEradicatorHelmet</li>
-	  <li>Apparel_PlagueEradicatorArmor</li>
+      <li>Apparel_PlagueEradicatorArmor</li>
     </apparelRequired>
     <apparelAllowHeadgearChance>0.1</apparelAllowHeadgearChance>
     <apparelMoney>
@@ -515,7 +502,7 @@
       <max>20000</max>
     </weaponMoney>
     <weaponTags>
-	  <li>HarrowedHolyFire</li>
+      <li>HarrowedHolyFire</li>
     </weaponTags>
     <techHediffsMoney>
       <min>1000</min>
@@ -545,8 +532,7 @@
       </subOptionsChooseOne>
     </inventoryOptions>
   </PawnKindDef>
-  
-    <PawnKindDef>
+  <PawnKindDef>
     <defName>HarrowedMadman</defName>
     <label>harrowed madman</label>
     <race>Harrowed_Madman</race>
@@ -567,7 +553,6 @@
       </li>
     </lifeStages>
   </PawnKindDef>
-  
   <PawnKindDef>
     <defName>HarrowedBaptizedFemale</defName>
     <label>baptized female</label>
@@ -589,5 +574,4 @@
       </li>
     </lifeStages>
   </PawnKindDef>
-  
 </Defs>

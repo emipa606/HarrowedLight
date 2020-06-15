@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
   <!-- ==================== Holy Fire ========================== -->
-
   <ThingDef ParentName="BaseWeapon">
     <defName>Weapon_HolyFire</defName>
     <label>holy fire canisters</label>
@@ -43,21 +40,19 @@
       </li>
     </verbs>
   </ThingDef>
-
-	<ThingDef ParentName="BaseGrenadeProjectile">
-		<defName>Proj_HolyFire</defName>
-		<label>holy fire canister</label>
-		<graphicData>
-			<texPath>Things/Projectile/HolyFire</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<projectile>
-			<explosionRadius>1.8</explosionRadius>
-			<damageDef>Flame</damageDef>
-			<damageAmountBase>8</damageAmountBase>
-			<preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+  <ThingDef ParentName="BaseGrenadeProjectile">
+    <defName>Proj_HolyFire</defName>
+    <label>holy fire canister</label>
+    <graphicData>
+      <texPath>Things/Projectile/HolyFire</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <explosionRadius>1.8</explosionRadius>
+      <damageDef>Flame</damageDef>
+      <damageAmountBase>8</damageAmountBase>
+      <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
       <ai_IsIncendiary>true</ai_IsIncendiary>
-		</projectile>
-	</ThingDef>
-
+    </projectile>
+  </ThingDef>
 </Defs>

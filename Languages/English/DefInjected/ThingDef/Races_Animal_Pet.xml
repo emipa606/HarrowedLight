@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bloodhound.label>bloodhound</Bloodhound.label>
+  <Bloodhound.description>A large hound originally bred for hunting.</Bloodhound.description>
+  <Bloodhound.tools.0.label>left paw</Bloodhound.tools.0.label>
+  <Bloodhound.tools.1.label>right paw</Bloodhound.tools.1.label>
+  <Bloodhound.tools.3.label>head</Bloodhound.tools.3.label>
+
+
+</LanguageData>

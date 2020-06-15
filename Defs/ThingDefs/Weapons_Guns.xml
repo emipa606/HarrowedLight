@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <!-- ======================= Bullet types ======================= -->
   <ThingDef Name="BaseHarrowGun" ParentName="BaseGun" Abstract="True">
     <recipeMaker>
@@ -15,99 +14,94 @@
       <researchPrerequisite>Gunsmithing</researchPrerequisite>
     </recipeMaker>
   </ThingDef>
-  
-	<ThingDef ParentName="BaseBullet">
-		<defName>Bullet_Purifier</defName>
-		<label>flame</label>
-		<graphicData>
-			<texPath>Things/Projectile/LauncherShot</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<shaderType>TransparentPostLight</shaderType>
-		</graphicData>
-		<thingClass>Projectile_Explosive</thingClass>
-		<projectile>
-			<damageDef>Flame</damageDef>
-			<damageAmountBase>10</damageAmountBase>
-			<speed>40</speed>
-			<explosionRadius>2.0</explosionRadius >
-			<preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
-			<preExplosionSpawnChance>0.6</preExplosionSpawnChance>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_Purifier</defName>
+    <label>flame</label>
+    <graphicData>
+      <texPath>Things/Projectile/LauncherShot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <damageAmountBase>10</damageAmountBase>
+      <speed>40</speed>
+      <explosionRadius>2.0</explosionRadius>
+      <preExplosionSpawnThingDef>Filth_Fuel</preExplosionSpawnThingDef>
+      <preExplosionSpawnChance>0.6</preExplosionSpawnChance>
       <ai_IsIncendiary>true</ai_IsIncendiary>
-		</projectile>
-	</ThingDef>
-	
-	<ThingDef ParentName="BaseBullet">
-		<defName>Bullet_HarrowFistShotgun</defName>
-		<label>fist shotgun blast</label>
-		<graphicData>
-			<texPath>Things/Projectile/Bullet_Shotgun</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<shaderType>TransparentPostLight</shaderType>
-		</graphicData>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_HarrowFistShotgun</defName>
+    <label>fist shotgun blast</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Shotgun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
     <projectile>
       <damageDef>Bullet</damageDef>
       <damageAmountBase>20</damageAmountBase>
       <speed>55</speed>
     </projectile>
-    </ThingDef>
-	
-	<ThingDef ParentName="BaseBullet">
-		<defName>Bullet_Fulger</defName>
-		<label>lightning bolt</label>
-		<graphicData>
-			<texPath>Things/Projectile/LightningBolt</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-			<shaderType>TransparentPostLight</shaderType>
-		</graphicData>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_Fulger</defName>
+    <label>lightning bolt</label>
+    <graphicData>
+      <texPath>Things/Projectile/LightningBolt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
     <projectile>
       <damageDef>Flame</damageDef>
       <damageAmountBase>70</damageAmountBase>
       <speed>100</speed>
     </projectile>
-    </ThingDef>
-	
-  <!-- ======================= Harrowed Purifier ======================= -->	
-  
-		<ThingDef ParentName="BaseHarrowGun">
-		<defName>Gun_HarrowPurifier</defName>
-		<label>purifier</label>
-		<description>Sanctified fire.</description>
-		<graphicData>
-			<texPath>Things/Weapons/Purifier</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-			<MarketValue>1000</MarketValue>
-			<Mass>8</Mass>
-			<AccuracyTouch>0.50</AccuracyTouch>
-			<AccuracyShort>0.20</AccuracyShort>
-			<AccuracyMedium>0.10</AccuracyMedium>
-			<AccuracyLong>0.05</AccuracyLong>
-			<RangedWeapon_Cooldown>6.0</RangedWeapon_Cooldown>
-		</statBases>
-		<weaponTags>
-         <li>HarrowedGun</li>
-         <li>HarrowedPurifier</li>
-		</weaponTags>
+  </ThingDef>
+  <!-- ======================= Harrowed Purifier ======================= -->
+  <ThingDef ParentName="BaseHarrowGun">
+    <defName>Gun_HarrowPurifier</defName>
+    <label>purifier</label>
+    <description>Sanctified fire.</description>
+    <graphicData>
+      <texPath>Things/Weapons/Purifier</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>1000</MarketValue>
+      <Mass>8</Mass>
+      <AccuracyTouch>0.50</AccuracyTouch>
+      <AccuracyShort>0.20</AccuracyShort>
+      <AccuracyMedium>0.10</AccuracyMedium>
+      <AccuracyLong>0.05</AccuracyLong>
+      <RangedWeapon_Cooldown>6.0</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags>
+      <li>HarrowedGun</li>
+      <li>HarrowedPurifier</li>
+    </weaponTags>
     <costList>
       <Steel>80</Steel>
       <ComponentIndustrial>6</ComponentIndustrial>
     </costList>
-		<verbs>
-			<li>
-				<verbClass>Verb_Shoot</verbClass>
-				<hasStandardCommand>true</hasStandardCommand>
-				<defaultProjectile>Bullet_Purifier</defaultProjectile>
-				<forcedMissRadius>3.5</forcedMissRadius>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_Purifier</defaultProjectile>
+        <forcedMissRadius>3.5</forcedMissRadius>
         <ai_AvoidFriendlyFireRadius>3</ai_AvoidFriendlyFireRadius>
-				<warmupTime>3.00</warmupTime>
-				<range>30</range>
-				<burstShotCount>1</burstShotCount>
-				<soundCast>InfernoCannon_Fire</soundCast>
-				<soundCastTail>GunTail_Medium</soundCastTail>
-				<muzzleFlashScale>14</muzzleFlashScale>
-			</li>
-		</verbs>
+        <warmupTime>3.00</warmupTime>
+        <range>30</range>
+        <burstShotCount>1</burstShotCount>
+        <soundCast>InfernoCannon_Fire</soundCast>
+        <soundCastTail>GunTail_Medium</soundCastTail>
+        <muzzleFlashScale>14</muzzleFlashScale>
+      </li>
+    </verbs>
     <tools>
       <li>
         <label>barrel</label>
@@ -118,12 +112,9 @@
         <cooldownTime>1.9</cooldownTime>
       </li>
     </tools>
-	</ThingDef>
-	
-	  <!-- ======================= Harrowed Fist Shotgun ======================= -->
-	  
-	  
-<ThingDef ParentName="BaseHarrowGun">
+  </ThingDef>
+  <!-- ======================= Harrowed Fist Shotgun ======================= -->
+  <ThingDef ParentName="BaseHarrowGun">
     <defName>Gun_HarrowFistShotgun</defName>
     <label>fist shotgun</label>
     <description>An adorned shotgun variant that wraps around one's fist.</description>
@@ -141,9 +132,9 @@
       <AccuracyLong>0.14</AccuracyLong>
       <RangedWeapon_Cooldown>1.50</RangedWeapon_Cooldown>
     </statBases>
-	<weaponTags>
-         <li>HarrowedGun</li>
-         <li>HarrowedShotgun</li>
+    <weaponTags>
+      <li>HarrowedGun</li>
+      <li>HarrowedShotgun</li>
     </weaponTags>
     <costList>
       <Steel>50</Steel>
@@ -162,7 +153,7 @@
       </li>
     </verbs>
     <tools>
-	  <li>
+      <li>
         <label>barrel</label>
         <capacities>
           <li>Blunt</li>
@@ -170,13 +161,11 @@
         </capacities>
         <power>8</power>
         <cooldownTime>1.3</cooldownTime>
-	   </li>
+      </li>
     </tools>
   </ThingDef>
-  
-    <!-- ======================= Harrowed Ocelot ======================= -->
-	
-<ThingDef ParentName="BaseHumanMakeableGun">
+  <!-- ======================= Harrowed Ocelot ======================= -->
+  <ThingDef ParentName="BaseHumanMakeableGun">
     <defName>Gun_OcelotRifle</defName>
     <label>Ocelot</label>
     <description>A powerful sniper rifle with a cylinder.</description>
@@ -236,10 +225,8 @@
       <li>HarrowedOcelotRifle</li>
     </weaponTags>
   </ThingDef>
-  
-    <!-- ======================= Harrowed Fulger ======================= -->
-	
-<ThingDef ParentName="BaseHumanMakeableGun">
+  <!-- ======================= Harrowed Fulger ======================= -->
+  <ThingDef ParentName="BaseHumanMakeableGun">
     <defName>Gun_Fulger</defName>
     <label>Fulger lightning gun</label>
     <description>Tame and weaponize the forces of nature.</description>
@@ -299,10 +286,8 @@
       <li>HarrowedFulger</li>
     </weaponTags>
   </ThingDef>
-  
-<!-- ======================= Harrowed "The Cure" ======================= -->
-
-    <ThingDef ParentName="BaseHumanMakeableGun">
+  <!-- ======================= Harrowed "The Cure" ======================= -->
+  <ThingDef ParentName="BaseHumanMakeableGun">
     <defName>Gun_TheCure</defName>
     <label>The Cure</label>
     <description>An assault rifle used by the plague eradicators to cleanse rowdy infected.</description>
@@ -341,9 +326,9 @@
         <muzzleFlashScale>10</muzzleFlashScale>
       </li>
     </verbs>
-		<weaponTags>
-			<li>HarrowedTheCure</li>
-		</weaponTags>
+    <weaponTags>
+      <li>HarrowedTheCure</li>
+    </weaponTags>
     <tools>
       <li>
         <label>stock</label>
@@ -364,5 +349,4 @@
       </li>
     </tools>
   </ThingDef>
-  
 </Defs>

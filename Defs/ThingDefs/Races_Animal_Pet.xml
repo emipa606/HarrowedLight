@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="AnimalThingBase">
     <defName>Bloodhound</defName>
     <label>bloodhound</label>
@@ -11,7 +10,7 @@
       <MarketValue>250</MarketValue>
     </statBases>
     <tools>
-	<li>
+      <li>
         <label>left paw</label>
         <capacities>
           <li>Scratch</li>

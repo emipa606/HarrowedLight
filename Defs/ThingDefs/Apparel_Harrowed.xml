@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="ApparelBase">
     <defName>Apparel_HarrowedCassock</defName>
     <label>cassock</label>
     <description>An ankle-length garment.</description>
-	<recipeMaker>
+    <recipeMaker>
       <recipeUsers>
         <li>HarrowTable</li>
       </recipeUsers>
@@ -18,14 +17,14 @@
     <costStuffCount>100</costStuffCount>
     <stuffCategories>
       <li>Fabric</li>
-	  <li>Leathery</li>
+      <li>Leathery</li>
     </stuffCategories>
     <thingCategories>
       <li>Apparel</li>
     </thingCategories>
     <generateCommonality>0.2</generateCommonality>
     <statBases>
-	  <WorkToMake>22000</WorkToMake>
+      <WorkToMake>22000</WorkToMake>
       <SellPriceFactor>0.1</SellPriceFactor>
       <MaxHitPoints>100</MaxHitPoints>
       <Mass>0.4</Mass>
@@ -38,7 +37,7 @@
       <bodyPartGroups>
         <li>Torso</li>
         <li>Shoulders</li>
-	    <li>Arms</li>
+        <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
       <wornGraphicPath>Apparel/Cassock</wornGraphicPath>
@@ -54,14 +53,11 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-
-
-    
   <ThingDef ParentName="HatBase">
     <defName>Apparel_PeakedHat</defName>
     <label>peaked priest hat</label>
     <description>A pointy hat traditionally worn by high-ranking harrowed.</description>
-	<recipeMaker>
+    <recipeMaker>
       <recipeUsers>
         <li>HarrowTable</li>
       </recipeUsers>
@@ -72,7 +68,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
-	  <WorkToMake>8000</WorkToMake>
+      <WorkToMake>8000</WorkToMake>
       <SellPriceFactor>0.1</SellPriceFactor>
       <Mass>0.30</Mass>
       <MarketValue>300</MarketValue>
@@ -85,7 +81,7 @@
     <costStuffCount>50</costStuffCount>
     <stuffCategories>
       <li>Fabric</li>
-	  <li>Leathery</li>
+      <li>Leathery</li>
     </stuffCategories>
     <apparel>
       <bodyPartGroups>
@@ -103,13 +99,11 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-
-
   <ThingDef ParentName="HatBase">
     <defName>Apparel_PeakedHatTwo</defName>
     <label>peaked hat</label>
     <description>A pointy hat traditionally worn by harrowed.</description>
-	<recipeMaker>
+    <recipeMaker>
       <recipeUsers>
         <li>HarrowTable</li>
       </recipeUsers>
@@ -122,10 +116,10 @@
     <costStuffCount>40</costStuffCount>
     <stuffCategories>
       <li>Fabric</li>
-	  <li>Leathery</li>
+      <li>Leathery</li>
     </stuffCategories>
     <statBases>
-	  <WorkToMake>6000</WorkToMake>
+      <WorkToMake>6000</WorkToMake>
       <SellPriceFactor>0.1</SellPriceFactor>
       <Mass>0.20</Mass>
       <MarketValue>120</MarketValue>
@@ -151,12 +145,11 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-    <ThingDef ParentName="HatBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparel_HPmask</defName>
     <label>purger helmet</label>
     <description>A baggy looking helmet filled with an assortment of herbs.</description>
-	<recipeMaker>
+    <recipeMaker>
       <recipeUsers>
         <li>HarrowTable</li>
       </recipeUsers>
@@ -166,12 +159,12 @@
       <texPath>Apparel/HPmask</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-	  <costStuffCount>50</costStuffCount>
-	  <stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <stuffCategories>
       <li>Metallic</li>
     </stuffCategories>
     <statBases>
-	  <WorkToMake>35000</WorkToMake>
+      <WorkToMake>35000</WorkToMake>
       <SellPriceFactor>0.1</SellPriceFactor>
       <Mass>1.20</Mass>
       <MarketValue>800</MarketValue>
@@ -197,12 +190,11 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-    <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="ApparelBase">
     <defName>Apparel_HPsuit</defName>
     <label>purger exosuit</label>
     <description>A flame retardant exosuit.</description>
-	<recipeMaker>
+    <recipeMaker>
       <recipeUsers>
         <li>HarrowTable</li>
       </recipeUsers>
@@ -213,10 +205,10 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <costStuffCount>300</costStuffCount>
-	<costList>
+    <costList>
       <ComponentIndustrial>10</ComponentIndustrial>
     </costList>
-	<stuffCategories>
+    <stuffCategories>
       <li>Metallic</li>
     </stuffCategories>
     <thingCategories>
@@ -224,7 +216,7 @@
     </thingCategories>
     <generateCommonality>0.2</generateCommonality>
     <statBases>
-	  <WorkToMake>150000</WorkToMake>
+      <WorkToMake>150000</WorkToMake>
       <SellPriceFactor>0.7</SellPriceFactor>
       <MaxHitPoints>500</MaxHitPoints>
       <Mass>15.0</Mass>
@@ -233,7 +225,7 @@
       <Insulation_Cold>10</Insulation_Cold>
       <Insulation_Heat>50</Insulation_Heat>
     </statBases>
-	  <equippedStatOffsets>
+    <equippedStatOffsets>
       <MoveSpeed>-0.10</MoveSpeed>
       <WorkSpeedGlobal>-0.05</WorkSpeedGlobal>
     </equippedStatOffsets>
@@ -241,7 +233,7 @@
       <bodyPartGroups>
         <li>Torso</li>
         <li>Shoulders</li>
-	    <li>Arms</li>
+        <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
       <wornGraphicPath>Apparel/HPsuit</wornGraphicPath>
@@ -257,12 +249,11 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-      <ThingDef ParentName="HatBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparel_HFmask</defName>
     <label>flagellant hood</label>
     <description>A hood that gives off the aroma of different herbs, blood and sweat.</description>
-	<recipeMaker>
+    <recipeMaker>
       <recipeUsers>
         <li>HarrowTable</li>
       </recipeUsers>
@@ -272,13 +263,13 @@
       <texPath>Apparel/HFmask</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-	<costStuffCount>20</costStuffCount>
-	  <stuffCategories>
+    <costStuffCount>20</costStuffCount>
+    <stuffCategories>
       <li>Leathery</li>
-	  <li>Fabric</li>
+      <li>Fabric</li>
     </stuffCategories>
     <statBases>
-	  <WorkToMake>3000</WorkToMake>
+      <WorkToMake>3000</WorkToMake>
       <SellPriceFactor>0.1</SellPriceFactor>
       <Mass>0.10</Mass>
       <MarketValue>30</MarketValue>
@@ -302,8 +293,7 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-      <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="ApparelBase">
     <defName>Apparel_HGold</defName>
     <label>pristine armor</label>
     <description>An ancient suit of armor.</description>
@@ -315,7 +305,7 @@
       <li>Apparel</li>
     </thingCategories>
     <generateCommonality>0.2</generateCommonality>
-	<costStuffCount>10500</costStuffCount>
+    <costStuffCount>10500</costStuffCount>
     <statBases>
       <SellPriceFactor>1.5</SellPriceFactor>
       <MaxHitPoints>500</MaxHitPoints>
@@ -325,7 +315,7 @@
       <Insulation_Cold>30</Insulation_Cold>
       <Insulation_Heat>30</Insulation_Heat>
     </statBases>
-	<equippedStatOffsets>
+    <equippedStatOffsets>
       <MoveSpeed>-0.15</MoveSpeed>
       <WorkSpeedGlobal>-0.15</WorkSpeedGlobal>
     </equippedStatOffsets>
@@ -333,7 +323,7 @@
       <bodyPartGroups>
         <li>Torso</li>
         <li>Shoulders</li>
-	    <li>Arms</li>
+        <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
       <wornGraphicPath>Apparel/HGold</wornGraphicPath>
@@ -349,8 +339,7 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-      <ThingDef ParentName="HatBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparel_HOwl</defName>
     <label>pristine owl helmet</label>
     <description>A masterfully ornated owl helmet.</description>
@@ -358,7 +347,7 @@
       <texPath>Apparel/HOwl</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-	<costStuffCount>9500</costStuffCount>
+    <costStuffCount>9500</costStuffCount>
     <statBases>
       <SellPriceFactor>0.1</SellPriceFactor>
       <Mass>1.50</Mass>
@@ -385,13 +374,11 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-  
-    <ThingDef ParentName="HatBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparel_MilitantVeil</defName>
     <label>militant veil</label>
     <description>A metal helmet adorned with a flowing, red veil.</description>
-	<recipeMaker>
+    <recipeMaker>
       <recipeUsers>
         <li>HarrowTable</li>
       </recipeUsers>
@@ -401,16 +388,16 @@
       <texPath>Apparel/Militant</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-	  <costList>
+    <costList>
       <Steel>30</Steel>
-      </costList>
-	  <costStuffCount>40</costStuffCount>
-	  <stuffCategories>
+    </costList>
+    <costStuffCount>40</costStuffCount>
+    <stuffCategories>
       <li>Leathery</li>
-	  <li>Fabric</li>
+      <li>Fabric</li>
     </stuffCategories>
     <statBases>
-	  <WorkToMake>15000</WorkToMake>
+      <WorkToMake>15000</WorkToMake>
       <SellPriceFactor>0.1</SellPriceFactor>
       <Mass>1.20</Mass>
       <MarketValue>150</MarketValue>
@@ -436,8 +423,7 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-        <ThingDef ParentName="HatBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparel_HarrowedCommanderMask</defName>
     <label>harrowed commander mask </label>
     <description>A full helmet worn by high ranking Harrowed.</description>
@@ -445,7 +431,7 @@
       <texPath>Apparel/HarrowedCommanderMask</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-	<costStuffCount>7000</costStuffCount>
+    <costStuffCount>7000</costStuffCount>
     <statBases>
       <SellPriceFactor>0.1</SellPriceFactor>
       <Mass>1.30</Mass>
@@ -472,8 +458,7 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-        <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="ApparelBase">
     <defName>Apparel_HarrowedCommander</defName>
     <label>commander armor</label>
     <description>A suit of armor worn by high ranking Harrowed.</description>
@@ -485,7 +470,7 @@
       <li>Apparel</li>
     </thingCategories>
     <generateCommonality>0.2</generateCommonality>
-	<costStuffCount>10000</costStuffCount>
+    <costStuffCount>10000</costStuffCount>
     <statBases>
       <SellPriceFactor>1.5</SellPriceFactor>
       <MaxHitPoints>350</MaxHitPoints>
@@ -495,7 +480,7 @@
       <Insulation_Cold>25</Insulation_Cold>
       <Insulation_Heat>20</Insulation_Heat>
     </statBases>
-	<equippedStatOffsets>
+    <equippedStatOffsets>
       <MoveSpeed>-0.20</MoveSpeed>
       <WorkSpeedGlobal>-0.20</WorkSpeedGlobal>
     </equippedStatOffsets>
@@ -503,7 +488,7 @@
       <bodyPartGroups>
         <li>Torso</li>
         <li>Shoulders</li>
-	    <li>Arms</li>
+        <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
       <wornGraphicPath>Apparel/HarrowedCommander</wornGraphicPath>
@@ -519,8 +504,7 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-    <ThingDef ParentName="HatBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparel_PlagueEradicatorHelmet</defName>
     <label>plague eradicator helmet</label>
     <description>As the white horse roared across the lands a particular oppulent, noble house took it upon themselves to purge the filth and disease wherever they rode. This rusty helmet belonged to one of such plague eradicators, a relic of hardships that passed and of hardships that are yet to arrive.</description>
@@ -528,11 +512,11 @@
       <texPath>Apparel/PlagueEradicatorMask</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-	  <costList>
+    <costList>
       <Steel>150</Steel>
-      </costList>
+    </costList>
     <statBases>
-	  <WorkToMake>45000</WorkToMake>
+      <WorkToMake>45000</WorkToMake>
       <SellPriceFactor>2.0</SellPriceFactor>
       <Mass>1.50</Mass>
       <MarketValue>1500</MarketValue>
@@ -556,8 +540,7 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-     <ThingDef ParentName="ApparelBase">
+  <ThingDef ParentName="ApparelBase">
     <defName>Apparel_PlagueEradicatorArmor</defName>
     <label>plague eradicator armor</label>
     <description>A relic of times long past, of times where disease and pestilence swept the land with fury beyond human understanding.</description>
@@ -569,7 +552,7 @@
       <li>Apparel</li>
     </thingCategories>
     <generateCommonality>0.2</generateCommonality>
-	<costStuffCount>10000</costStuffCount>
+    <costStuffCount>10000</costStuffCount>
     <statBases>
       <SellPriceFactor>1.3</SellPriceFactor>
       <MaxHitPoints>350</MaxHitPoints>
@@ -579,7 +562,7 @@
       <Insulation_Cold>25</Insulation_Cold>
       <Insulation_Heat>20</Insulation_Heat>
     </statBases>
-	<equippedStatOffsets>
+    <equippedStatOffsets>
       <MoveSpeed>-0.25</MoveSpeed>
       <WorkSpeedGlobal>-0.25</WorkSpeedGlobal>
     </equippedStatOffsets>
@@ -587,7 +570,7 @@
       <bodyPartGroups>
         <li>Torso</li>
         <li>Shoulders</li>
-	    <li>Arms</li>
+        <li>Arms</li>
         <li>Legs</li>
       </bodyPartGroups>
       <wornGraphicPath>Apparel/PlagueEradicatorArmor</wornGraphicPath>
@@ -603,8 +586,7 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
-      <ThingDef ParentName="HatBase">
+  <ThingDef ParentName="HatBase">
     <defName>Apparel_PlagueEradicatorHelmetTwo</defName>
     <label>plague eradicator armet</label>
     <description>As the white horse roared across the lands the people took up arms to fight back. Iron and blood sprawled across the soil.</description>
@@ -612,11 +594,11 @@
       <texPath>Apparel/PlagueEradicatorMask2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-	  <costList>
+    <costList>
       <Steel>150</Steel>
-      </costList>
+    </costList>
     <statBases>
-	  <WorkToMake>45000</WorkToMake>
+      <WorkToMake>45000</WorkToMake>
       <SellPriceFactor>2.0</SellPriceFactor>
       <Mass>1.50</Mass>
       <MarketValue>1500</MarketValue>
@@ -640,5 +622,4 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-  
 </Defs>

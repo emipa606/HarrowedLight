@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
-
   <ThingDef ParentName="BasePawn" Name="BaseMadman" Abstract="True">
     <soundImpactDefault>BulletImpact_Flesh</soundImpactDefault>
     <statBases>
@@ -17,7 +14,6 @@
       <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
     </race>
   </ThingDef>
-
   <ThingDef ParentName="BaseMadman">
     <defName>Harrowed_Madman</defName>
     <label>madman</label>
@@ -38,7 +34,7 @@
         <linkedBodyPartsGroup>ObjectOfWorship</linkedBodyPartsGroup>
         <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
       </li>
-	  <li>
+      <li>
         <label>head</label>
         <capacities>
           <li>Blunt</li>
@@ -79,19 +75,18 @@
       <leatherDef>Leather_Human</leatherDef>
     </race>
   </ThingDef>
-  
-    <ThingDef ParentName="BaseMadman">
+  <ThingDef ParentName="BaseMadman">
     <defName>Harrowed_Baptized</defName>
     <label>baptized female</label>
     <description>A Harrowed cultist that has completly offered herself to the primordial gods.</description>
     <statBases>
       <MoveSpeed>4.0</MoveSpeed>
       <ArmorRating_Blunt>0.5</ArmorRating_Blunt>
-	  <ArmorRating_Sharp>0.3</ArmorRating_Sharp>
+      <ArmorRating_Sharp>0.3</ArmorRating_Sharp>
       <LeatherAmount>80</LeatherAmount>
     </statBases>
-   <tools>
-         <li>
+    <tools>
+      <li>
         <label>left tentacle</label>
         <capacities>
           <li>Blunt</li>
@@ -108,7 +103,6 @@
           </extraMeleeDamages>
         </surpriseAttack>
       </li>
-	  
       <li>
         <label>right tentacle</label>
         <capacities>
@@ -126,7 +120,6 @@
           </extraMeleeDamages>
         </surpriseAttack>
       </li>
-	  
       <li>
         <label>left fist</label>
         <capacities>
@@ -135,7 +128,7 @@
         <power>7</power>
         <cooldownTime>1.6</cooldownTime>
         <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
-		<chanceFactor>0.2</chanceFactor>
+        <chanceFactor>0.2</chanceFactor>
         <surpriseAttack>
           <extraMeleeDamages>
             <li>
@@ -153,7 +146,7 @@
         <power>7</power>
         <cooldownTime>1.6</cooldownTime>
         <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
-		<chanceFactor>0.2</chanceFactor>
+        <chanceFactor>0.2</chanceFactor>
         <surpriseAttack>
           <extraMeleeDamages>
             <li>
@@ -204,5 +197,4 @@
       <leatherDef>Leather_Human</leatherDef>
     </race>
   </ThingDef>
-  
 </Defs>

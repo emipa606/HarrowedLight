@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HarrowedMadman.label>madman</HarrowedMadman.label>
+  <HarrowedMadman.corePart.parts.6.customLabel>left lung</HarrowedMadman.corePart.parts.6.customLabel>
+  <HarrowedMadman.corePart.parts.7.customLabel>right lung</HarrowedMadman.corePart.parts.7.customLabel>
+  <HarrowedMadman.corePart.parts.8.customLabel>left kidney</HarrowedMadman.corePart.parts.8.customLabel>
+  <HarrowedMadman.corePart.parts.9.customLabel>right kidney</HarrowedMadman.corePart.parts.9.customLabel>
+  <HarrowedMadman.corePart.parts.11.parts.0.parts.1.customLabel>left eye</HarrowedMadman.corePart.parts.11.parts.0.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.11.parts.0.parts.2.customLabel>right eye</HarrowedMadman.corePart.parts.11.parts.0.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.11.parts.0.parts.3.customLabel>left ear</HarrowedMadman.corePart.parts.11.parts.0.parts.3.customLabel>
+  <HarrowedMadman.corePart.parts.11.parts.0.parts.4.customLabel>right ear</HarrowedMadman.corePart.parts.11.parts.0.parts.4.customLabel>
+  <HarrowedMadman.corePart.parts.12.customLabel>left shoulder</HarrowedMadman.corePart.parts.12.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.0.customLabel>left clavicle</HarrowedMadman.corePart.parts.12.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.customLabel>left arm</HarrowedMadman.corePart.parts.12.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</HarrowedMadman.corePart.parts.12.parts.1.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.1.customLabel>left radius</HarrowedMadman.corePart.parts.12.parts.1.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.2.customLabel>left hand</HarrowedMadman.corePart.parts.12.parts.1.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left pinky</HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left ring finger</HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left middle finger</HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left index finger</HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.5.customLabel>left thumb</HarrowedMadman.corePart.parts.12.parts.1.parts.2.parts.5.customLabel>
+  <HarrowedMadman.corePart.parts.13.customLabel>right shoulder</HarrowedMadman.corePart.parts.13.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.0.customLabel>right clavicle</HarrowedMadman.corePart.parts.13.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.customLabel>right arm</HarrowedMadman.corePart.parts.13.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</HarrowedMadman.corePart.parts.13.parts.1.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.1.customLabel>right radius</HarrowedMadman.corePart.parts.13.parts.1.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.2.customLabel>right hand</HarrowedMadman.corePart.parts.13.parts.1.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</HarrowedMadman.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <HarrowedMadman.corePart.parts.15.customLabel>left leg</HarrowedMadman.corePart.parts.15.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.0.customLabel>left femur</HarrowedMadman.corePart.parts.15.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.1.customLabel>left tibia</HarrowedMadman.corePart.parts.15.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.2.customLabel>left foot</HarrowedMadman.corePart.parts.15.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</HarrowedMadman.corePart.parts.15.parts.2.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.2.parts.1.customLabel>left fourth toe</HarrowedMadman.corePart.parts.15.parts.2.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.2.parts.2.customLabel>left middle toe</HarrowedMadman.corePart.parts.15.parts.2.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.2.parts.3.customLabel>left second toe</HarrowedMadman.corePart.parts.15.parts.2.parts.3.customLabel>
+  <HarrowedMadman.corePart.parts.15.parts.2.parts.4.customLabel>left big toe</HarrowedMadman.corePart.parts.15.parts.2.parts.4.customLabel>
+  <HarrowedMadman.corePart.parts.16.customLabel>right leg</HarrowedMadman.corePart.parts.16.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.0.customLabel>right femur</HarrowedMadman.corePart.parts.16.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.1.customLabel>right tibia</HarrowedMadman.corePart.parts.16.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.2.customLabel>right foot</HarrowedMadman.corePart.parts.16.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</HarrowedMadman.corePart.parts.16.parts.2.parts.0.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.2.parts.1.customLabel>right fourth toe</HarrowedMadman.corePart.parts.16.parts.2.parts.1.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</HarrowedMadman.corePart.parts.16.parts.2.parts.2.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</HarrowedMadman.corePart.parts.16.parts.2.parts.3.customLabel>
+  <HarrowedMadman.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</HarrowedMadman.corePart.parts.16.parts.2.parts.4.customLabel>
+
+  <HarrowedBaptized.label>baptized female</HarrowedBaptized.label>
+  <HarrowedBaptized.corePart.parts.6.customLabel>left lung</HarrowedBaptized.corePart.parts.6.customLabel>
+  <HarrowedBaptized.corePart.parts.7.customLabel>right lung</HarrowedBaptized.corePart.parts.7.customLabel>
+  <HarrowedBaptized.corePart.parts.8.customLabel>left kidney</HarrowedBaptized.corePart.parts.8.customLabel>
+  <HarrowedBaptized.corePart.parts.9.customLabel>right kidney</HarrowedBaptized.corePart.parts.9.customLabel>
+  <HarrowedBaptized.corePart.parts.11.parts.0.parts.1.customLabel>left eye</HarrowedBaptized.corePart.parts.11.parts.0.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.11.parts.0.parts.2.customLabel>right eye</HarrowedBaptized.corePart.parts.11.parts.0.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.11.parts.0.parts.3.customLabel>left tentacle</HarrowedBaptized.corePart.parts.11.parts.0.parts.3.customLabel>
+  <HarrowedBaptized.corePart.parts.11.parts.0.parts.4.customLabel>right tentacle</HarrowedBaptized.corePart.parts.11.parts.0.parts.4.customLabel>
+  <HarrowedBaptized.corePart.parts.12.customLabel>left shoulder</HarrowedBaptized.corePart.parts.12.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.0.customLabel>left clavicle</HarrowedBaptized.corePart.parts.12.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.customLabel>left arm</HarrowedBaptized.corePart.parts.12.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</HarrowedBaptized.corePart.parts.12.parts.1.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.1.customLabel>left radius</HarrowedBaptized.corePart.parts.12.parts.1.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.2.customLabel>left hand</HarrowedBaptized.corePart.parts.12.parts.1.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left pinky</HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left ring finger</HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left middle finger</HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left index finger</HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left thumb</HarrowedBaptized.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <HarrowedBaptized.corePart.parts.13.customLabel>right shoulder</HarrowedBaptized.corePart.parts.13.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.0.customLabel>right clavicle</HarrowedBaptized.corePart.parts.13.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.customLabel>right arm</HarrowedBaptized.corePart.parts.13.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</HarrowedBaptized.corePart.parts.13.parts.1.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.1.customLabel>right radius</HarrowedBaptized.corePart.parts.13.parts.1.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.2.customLabel>right hand</HarrowedBaptized.corePart.parts.13.parts.1.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right pinky</HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right ring finger</HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right middle finger</HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right index finger</HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right thumb</HarrowedBaptized.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <HarrowedBaptized.corePart.parts.15.customLabel>left leg</HarrowedBaptized.corePart.parts.15.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.0.customLabel>left femur</HarrowedBaptized.corePart.parts.15.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.1.customLabel>left tibia</HarrowedBaptized.corePart.parts.15.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.2.customLabel>left foot</HarrowedBaptized.corePart.parts.15.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.2.parts.0.customLabel>left little toe</HarrowedBaptized.corePart.parts.15.parts.2.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.2.parts.1.customLabel>left fourth toe</HarrowedBaptized.corePart.parts.15.parts.2.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.2.parts.2.customLabel>left middle toe</HarrowedBaptized.corePart.parts.15.parts.2.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.2.parts.3.customLabel>left second toe</HarrowedBaptized.corePart.parts.15.parts.2.parts.3.customLabel>
+  <HarrowedBaptized.corePart.parts.15.parts.2.parts.4.customLabel>left big toe</HarrowedBaptized.corePart.parts.15.parts.2.parts.4.customLabel>
+  <HarrowedBaptized.corePart.parts.16.customLabel>right leg</HarrowedBaptized.corePart.parts.16.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.0.customLabel>right femur</HarrowedBaptized.corePart.parts.16.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.1.customLabel>right tibia</HarrowedBaptized.corePart.parts.16.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.2.customLabel>right foot</HarrowedBaptized.corePart.parts.16.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.2.parts.0.customLabel>right little toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.0.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.2.parts.1.customLabel>right fourth toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.1.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.2.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.3.customLabel>
+  <HarrowedBaptized.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

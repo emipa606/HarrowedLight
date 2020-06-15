@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <BodyPartDef>
     <defName>ObjectOfWorship</defName>
     <label>object of worship</label>
@@ -11,7 +10,6 @@
     <solid>true</solid>
     <alive>false</alive>
   </BodyPartDef>
-  
   <BodyPartDef>
     <defName>HarrowedTentacle</defName>
     <label>tentacle</label>
@@ -19,5 +17,4 @@
     <permanentInjuryChanceFactor>0.02</permanentInjuryChanceFactor>
     <skinCovered>true</skinCovered>
   </BodyPartDef>
-  
 </Defs>

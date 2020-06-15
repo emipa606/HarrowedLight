@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <WorkGiverDef>
     <defName>DoBillsHarrowTable</defName>
     <label>do bills at the harrow altar</label>
@@ -17,5 +16,4 @@
     </requiredCapacities>
     <prioritizeSustains>true</prioritizeSustains>
   </WorkGiverDef>
-
 </Defs>

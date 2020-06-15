@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="BenchBase">
     <defName>HarrowTable</defName>
     <label>Harrowed Shire</label>
@@ -55,13 +54,11 @@
         <glowColor>(110,110,50,0)</glowColor>
       </li>
     </comps>
-		<placeWorkers>
-			<li>PlaceWorker_ShowFacilitiesConnections</li>
-		</placeWorkers>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
     <researchPrerequisites>
-	<li>Machining</li>
-	</researchPrerequisites>
+      <li>Machining</li>
+    </researchPrerequisites>
   </ThingDef>
-
-
 </Defs>

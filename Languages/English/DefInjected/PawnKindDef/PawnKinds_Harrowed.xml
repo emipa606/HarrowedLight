@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HarrowedFlagellant.label>flagellant</HarrowedFlagellant.label>
+  <HarrowedFlagellant.labelPlural>flagellants</HarrowedFlagellant.labelPlural>
+
+  <HarrowedMilitant.label>militant</HarrowedMilitant.label>
+  <HarrowedMilitant.labelPlural>militants</HarrowedMilitant.labelPlural>
+
+  <HarrowedPurger.label>purger</HarrowedPurger.label>
+  <HarrowedPurger.labelPlural>purgers</HarrowedPurger.labelPlural>
+
+  <HarrowedPriest.label>priest</HarrowedPriest.label>
+  <HarrowedPriest.labelPlural>priests</HarrowedPriest.labelPlural>
+
+  <HarrowedCommander.label>commander</HarrowedCommander.label>
+  <HarrowedCommander.labelPlural>commanders</HarrowedCommander.labelPlural>
+
+  <HarrowedChampion.label>champion</HarrowedChampion.label>
+  <HarrowedChampion.labelPlural>champions</HarrowedChampion.labelPlural>
+
+  <HarrowedLeader.label>leader</HarrowedLeader.label>
+  <HarrowedLeader.labelPlural>leaders</HarrowedLeader.labelPlural>
+
+  <HarrowedPlagueEradicator.label>plague eradicator</HarrowedPlagueEradicator.label>
+  <HarrowedPlagueEradicator.labelPlural>plague eradicators</HarrowedPlagueEradicator.labelPlural>
+
+  <HarrowedPlagueCleanser.label>plague cleanser</HarrowedPlagueCleanser.label>
+  <HarrowedPlagueCleanser.labelPlural>plague cleansers</HarrowedPlagueCleanser.labelPlural>
+
+  <HarrowedMadman.label>harrowed madman</HarrowedMadman.label>
+  <HarrowedMadman.labelPlural>harrowed madmans</HarrowedMadman.labelPlural>
+  <HarrowedMadman.labelMale>male harrowed madman</HarrowedMadman.labelMale>
+  <HarrowedMadman.labelMalePlural>male harrowed madmans</HarrowedMadman.labelMalePlural>
+  <HarrowedMadman.labelFemale>female harrowed madman</HarrowedMadman.labelFemale>
+  <HarrowedMadman.labelFemalePlural>female harrowed madmans</HarrowedMadman.labelFemalePlural>
+
+  <HarrowedBaptizedFemale.label>baptized female</HarrowedBaptizedFemale.label>
+  <HarrowedBaptizedFemale.labelPlural>baptized females</HarrowedBaptizedFemale.labelPlural>
+  <HarrowedBaptizedFemale.labelMale>male baptized female</HarrowedBaptizedFemale.labelMale>
+  <HarrowedBaptizedFemale.labelMalePlural>male baptized females</HarrowedBaptizedFemale.labelMalePlural>
+  <HarrowedBaptizedFemale.labelFemale>female baptized female</HarrowedBaptizedFemale.labelFemale>
+  <HarrowedBaptizedFemale.labelFemalePlural>female baptized females</HarrowedBaptizedFemale.labelFemalePlural>
+
+
+</LanguageData>

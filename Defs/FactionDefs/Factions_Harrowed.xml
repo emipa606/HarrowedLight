@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <FactionDef>
     <defName>Harrowed</defName>
-	<label>Harrow conglomerate</label>
+    <label>Harrow conglomerate</label>
     <description>Mysterious beliefs grow anew in distant worlds. Such The Harrow came to be. With fire and incense they seek to spread their faith among the denizens of this wretched planet.</description>
     <pawnsPlural>harrowed</pawnsPlural>
     <permanentEnemy>true</permanentEnemy>
     <settlementGenerationWeight>0.5</settlementGenerationWeight>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
     <canMakeRandomly>true</canMakeRandomly>
-	<raidCommonalityFromPointsCurve>
-			<points>
-				<li>(40, 3)</li>
-				<li>(400, 1)</li>
-			</points>
-		</raidCommonalityFromPointsCurve>
+    <raidCommonalityFromPointsCurve>
+      <points>
+        <li>(40, 3)</li>
+        <li>(400, 1)</li>
+      </points>
+    </raidCommonalityFromPointsCurve>
     <canStageAttacks>true</canStageAttacks>
     <canSiege>true</canSiege>
     <leaderTitle>pontif</leaderTitle>
@@ -24,9 +23,9 @@
       <li>(0.53, 0.53, 0.53)</li>
       <li>(0.53, 0.53, 0.53)</li>
     </colorSpectrum>
-	<factionNameMaker>NamerHarrowBase</factionNameMaker>
-	<settlementNameMaker>NamerHarrowBase</settlementNameMaker>
-	<techLevel>Industrial</techLevel>	
+    <factionNameMaker>NamerHarrowBase</factionNameMaker>
+    <settlementNameMaker>NamerHarrowBase</settlementNameMaker>
+    <techLevel>Industrial</techLevel>
     <backstoryFilters>
       <li>
         <categories>
@@ -35,15 +34,15 @@
         </categories>
       </li>
     </backstoryFilters>
-	<hairTags>
-		<li>Urban</li>
-		<li>Rural</li>
-	</hairTags>
+    <hairTags>
+      <li>Urban</li>
+      <li>Rural</li>
+    </hairTags>
     <allowedArrivalTemperatureRange>
       <min>-40</min>
       <max>50</max>
     </allowedArrivalTemperatureRange>
-	<maxPawnCostPerTotalPointsCurve>
+    <maxPawnCostPerTotalPointsCurve>
       <points>
         <li>(0,35)</li>
         <li>(70, 50)</li>
@@ -57,37 +56,36 @@
         <kindDef>Combat</kindDef>
         <commonality>100</commonality>
         <options>
-		  <HarrowedFlagellant>180</HarrowedFlagellant>
-		  <HarrowedMilitant>150</HarrowedMilitant>
+          <HarrowedFlagellant>180</HarrowedFlagellant>
+          <HarrowedMilitant>150</HarrowedMilitant>
           <HarrowedPriest>100</HarrowedPriest>
-		  <HarrowedPurger>70</HarrowedPurger>
-		  <HarrowedCommander>60</HarrowedCommander>
-		  <HarrowedPlagueEradicator>55</HarrowedPlagueEradicator>
-		  <HarrowedPlagueCleanser>45</HarrowedPlagueCleanser>
-		  <HarrowedChampion>15</HarrowedChampion>
-		  <HarrowedMadman>15</HarrowedMadman>
-		  <HarrowedBaptizedFemale>10</HarrowedBaptizedFemale>
+          <HarrowedPurger>70</HarrowedPurger>
+          <HarrowedCommander>60</HarrowedCommander>
+          <HarrowedPlagueEradicator>55</HarrowedPlagueEradicator>
+          <HarrowedPlagueCleanser>45</HarrowedPlagueCleanser>
+          <HarrowedChampion>15</HarrowedChampion>
+          <HarrowedMadman>15</HarrowedMadman>
+          <HarrowedBaptizedFemale>10</HarrowedBaptizedFemale>
           <HarrowedLeader>10</HarrowedLeader>
         </options>
       </li>
       <li>
         <kindDef>Settlement</kindDef>
         <options>
-		  <HarrowedFlagellant>180</HarrowedFlagellant>
-		  <HarrowedMilitant>150</HarrowedMilitant>
+          <HarrowedFlagellant>180</HarrowedFlagellant>
+          <HarrowedMilitant>150</HarrowedMilitant>
           <HarrowedPriest>100</HarrowedPriest>
-		  <HarrowedPurger>70</HarrowedPurger>
-		  <HarrowedCommander>60</HarrowedCommander>
-		  <HarrowedPlagueEradicator>55</HarrowedPlagueEradicator>
-		  <HarrowedChampion>15</HarrowedChampion>
-		  <HarrowedMadman>15</HarrowedMadman>
-		  <HarrowedBaptizedFemale>10</HarrowedBaptizedFemale>
-		  <HarrowedPlagueCleanser>45</HarrowedPlagueCleanser>
+          <HarrowedPurger>70</HarrowedPurger>
+          <HarrowedCommander>60</HarrowedCommander>
+          <HarrowedPlagueEradicator>55</HarrowedPlagueEradicator>
+          <HarrowedChampion>15</HarrowedChampion>
+          <HarrowedMadman>15</HarrowedMadman>
+          <HarrowedBaptizedFemale>10</HarrowedBaptizedFemale>
+          <HarrowedPlagueCleanser>45</HarrowedPlagueCleanser>
           <HarrowedLeader>10</HarrowedLeader>
         </options>
       </li>
     </pawnGroupMakers>
     <settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath>
   </FactionDef>
-  
 </Defs>

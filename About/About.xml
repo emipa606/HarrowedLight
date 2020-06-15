@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Harrowed Light (Continued)</name>
-  	<packageId>Mlie.HarrowedLight</packageId>
-	<author>Hessra</author>
-	<url>https://github.com/emipa606/HarrowedLight</url>
-	<supportedVersions>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of Hessras mod for RimWorld 1.1
+  <name>Harrowed Light (Continued)</name>
+  <packageId>Mlie.HarrowedLight</packageId>
+  <author>Hessra</author>
+  <url>https://github.com/emipa606/HarrowedLight</url>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of Hessras mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1229377025
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
