@@ -1,47 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Apparel_HarrowedCassock.label>cassock</Apparel_HarrowedCassock.label>
   <Apparel_HarrowedCassock.description>An ankle-length garment.</Apparel_HarrowedCassock.description>
-
   <Apparel_PeakedHat.label>peaked priest hat</Apparel_PeakedHat.label>
   <Apparel_PeakedHat.description>A pointy hat traditionally worn by high-ranking harrowed.</Apparel_PeakedHat.description>
-
   <Apparel_PeakedHatTwo.label>peaked hat</Apparel_PeakedHatTwo.label>
   <Apparel_PeakedHatTwo.description>A pointy hat traditionally worn by harrowed.</Apparel_PeakedHatTwo.description>
-
   <Apparel_HPmask.label>purger helmet</Apparel_HPmask.label>
   <Apparel_HPmask.description>A baggy looking helmet filled with an assortment of herbs.</Apparel_HPmask.description>
-
   <Apparel_HPsuit.label>purger exosuit</Apparel_HPsuit.label>
   <Apparel_HPsuit.description>A flame retardant exosuit.</Apparel_HPsuit.description>
-
   <Apparel_HFmask.label>flagellant hood</Apparel_HFmask.label>
   <Apparel_HFmask.description>A hood that gives off the aroma of different herbs, blood and sweat.</Apparel_HFmask.description>
-
   <Apparel_HGold.label>pristine armor</Apparel_HGold.label>
   <Apparel_HGold.description>An ancient suit of armor.</Apparel_HGold.description>
-
   <Apparel_HOwl.label>pristine owl helmet</Apparel_HOwl.label>
   <Apparel_HOwl.description>A masterfully ornated owl helmet.</Apparel_HOwl.description>
-
   <Apparel_MilitantVeil.label>militant veil</Apparel_MilitantVeil.label>
   <Apparel_MilitantVeil.description>A metal helmet adorned with a flowing, red veil.</Apparel_MilitantVeil.description>
-
   <Apparel_HarrowedCommanderMask.label>harrowed commander mask </Apparel_HarrowedCommanderMask.label>
   <Apparel_HarrowedCommanderMask.description>A full helmet worn by high ranking Harrowed.</Apparel_HarrowedCommanderMask.description>
-
   <Apparel_HarrowedCommander.label>commander armor</Apparel_HarrowedCommander.label>
   <Apparel_HarrowedCommander.description>A suit of armor worn by high ranking Harrowed.</Apparel_HarrowedCommander.description>
-
   <Apparel_PlagueEradicatorHelmet.label>plague eradicator helmet</Apparel_PlagueEradicatorHelmet.label>
   <Apparel_PlagueEradicatorHelmet.description>As the white horse roared across the lands a particular oppulent, noble house took it upon themselves to purge the filth and disease wherever they rode. This rusty helmet belonged to one of such plague eradicators, a relic of hardships that passed and of hardships that are yet to arrive.</Apparel_PlagueEradicatorHelmet.description>
-
   <Apparel_PlagueEradicatorArmor.label>plague eradicator armor</Apparel_PlagueEradicatorArmor.label>
   <Apparel_PlagueEradicatorArmor.description>A relic of times long past, of times where disease and pestilence swept the land with fury beyond human understanding.</Apparel_PlagueEradicatorArmor.description>
-
   <Apparel_PlagueEradicatorHelmetTwo.label>plague eradicator armet</Apparel_PlagueEradicatorHelmetTwo.label>
   <Apparel_PlagueEradicatorHelmetTwo.description>As the white horse roared across the lands the people took up arms to fight back. Iron and blood sprawled across the soil.</Apparel_PlagueEradicatorHelmetTwo.description>
-
-
 </LanguageData>

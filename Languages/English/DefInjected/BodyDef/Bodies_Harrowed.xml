@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <HarrowedMadman.label>madman</HarrowedMadman.label>
   <HarrowedMadman.corePart.parts.6.customLabel>left lung</HarrowedMadman.corePart.parts.6.customLabel>
   <HarrowedMadman.corePart.parts.7.customLabel>right lung</HarrowedMadman.corePart.parts.7.customLabel>
@@ -50,7 +49,6 @@
   <HarrowedMadman.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</HarrowedMadman.corePart.parts.16.parts.2.parts.2.customLabel>
   <HarrowedMadman.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</HarrowedMadman.corePart.parts.16.parts.2.parts.3.customLabel>
   <HarrowedMadman.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</HarrowedMadman.corePart.parts.16.parts.2.parts.4.customLabel>
-
   <HarrowedBaptized.label>baptized female</HarrowedBaptized.label>
   <HarrowedBaptized.corePart.parts.6.customLabel>left lung</HarrowedBaptized.corePart.parts.6.customLabel>
   <HarrowedBaptized.corePart.parts.7.customLabel>right lung</HarrowedBaptized.corePart.parts.7.customLabel>
@@ -100,6 +98,4 @@
   <HarrowedBaptized.corePart.parts.16.parts.2.parts.2.customLabel>right middle toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.2.customLabel>
   <HarrowedBaptized.corePart.parts.16.parts.2.parts.3.customLabel>right second toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.3.customLabel>
   <HarrowedBaptized.corePart.parts.16.parts.2.parts.4.customLabel>right big toe</HarrowedBaptized.corePart.parts.16.parts.2.parts.4.customLabel>
-
-
 </LanguageData>

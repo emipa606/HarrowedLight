@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Bloodhound.label>bloodhound</Bloodhound.label>
   <Bloodhound.labelPlural>bloodhounds</Bloodhound.labelPlural>
   <Bloodhound.lifeStages.0.label>bloodhound puppy</Bloodhound.lifeStages.0.label>
@@ -25,6 +24,4 @@
   <Bloodhound.labelMalePlural>male bloodhounds</Bloodhound.labelMalePlural>
   <Bloodhound.labelFemale>female bloodhound</Bloodhound.labelFemale>
   <Bloodhound.labelFemalePlural>female bloodhounds</Bloodhound.labelFemalePlural>
-
-
 </LanguageData>

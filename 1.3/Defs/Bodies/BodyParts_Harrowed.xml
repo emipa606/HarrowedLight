@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BodyPartDef>
+    <defName>ObjectOfWorship</defName>
+    <label>object of worship</label>
+    <hitPoints>40</hitPoints>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <bleedRate>0</bleedRate>
+    <solid>true</solid>
+    <alive>false</alive>
+  </BodyPartDef>
+  <BodyPartDef>
+    <defName>HarrowedTentacle</defName>
+    <label>tentacle</label>
+    <hitPoints>60</hitPoints>
+    <permanentInjuryChanceFactor>0.02</permanentInjuryChanceFactor>
+    <skinCovered>true</skinCovered>
+  </BodyPartDef>
+</Defs>

@@ -1,43 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MeleeWeapon_Thurible.label>thurible</MeleeWeapon_Thurible.label>
   <MeleeWeapon_Thurible.description>A shiny incense burner.</MeleeWeapon_Thurible.description>
   <MeleeWeapon_Thurible.tools.0.label>censer</MeleeWeapon_Thurible.tools.0.label>
-
   <MeleeWeapon_CandleHolder.label>candle holder</MeleeWeapon_CandleHolder.label>
   <MeleeWeapon_CandleHolder.description>A large candlestick.</MeleeWeapon_CandleHolder.description>
   <MeleeWeapon_CandleHolder.tools.0.label>shaft</MeleeWeapon_CandleHolder.tools.0.label>
-
   <MeleeWeapon_Crosier.label>crosier</MeleeWeapon_Crosier.label>
   <MeleeWeapon_Crosier.description>A beautiful staff.</MeleeWeapon_Crosier.description>
   <MeleeWeapon_Crosier.tools.0.label>handle</MeleeWeapon_Crosier.tools.0.label>
   <MeleeWeapon_Crosier.tools.1.label>head</MeleeWeapon_Crosier.tools.1.label>
-
   <MeleeWeapon_Whip.label>whip</MeleeWeapon_Whip.label>
   <MeleeWeapon_Whip.description>A worn leather whip.</MeleeWeapon_Whip.description>
   <MeleeWeapon_Whip.tools.0.label>handle</MeleeWeapon_Whip.tools.0.label>
   <MeleeWeapon_Whip.tools.1.label>lashes</MeleeWeapon_Whip.tools.1.label>
-
   <MeleeWeapon_Banner.label>banner</MeleeWeapon_Banner.label>
   <MeleeWeapon_Banner.description>A weather-worn, hand-painted Harrow banner with a sharp tip.</MeleeWeapon_Banner.description>
   <MeleeWeapon_Banner.tools.0.label>shaft</MeleeWeapon_Banner.tools.0.label>
   <MeleeWeapon_Banner.tools.1.label>point</MeleeWeapon_Banner.tools.1.label>
-
   <MeleeWeapon_Stake.label>stake</MeleeWeapon_Stake.label>
   <MeleeWeapon_Stake.description>A stake.</MeleeWeapon_Stake.description>
   <MeleeWeapon_Stake.tools.0.label>point</MeleeWeapon_Stake.tools.0.label>
-
   <MeleeWeapon_ChampionSword.label>champion's sword</MeleeWeapon_ChampionSword.label>
   <MeleeWeapon_ChampionSword.description>A glistening sword.</MeleeWeapon_ChampionSword.description>
   <MeleeWeapon_ChampionSword.tools.0.label>handle</MeleeWeapon_ChampionSword.tools.0.label>
   <MeleeWeapon_ChampionSword.tools.1.label>point</MeleeWeapon_ChampionSword.tools.1.label>
   <MeleeWeapon_ChampionSword.tools.2.label>edge</MeleeWeapon_ChampionSword.tools.2.label>
-
   <MeleeWeapon_ChampionFlail.label>champion's flail</MeleeWeapon_ChampionFlail.label>
   <MeleeWeapon_ChampionFlail.description>A massive flail.</MeleeWeapon_ChampionFlail.description>
   <MeleeWeapon_ChampionFlail.tools.0.label>handle</MeleeWeapon_ChampionFlail.tools.0.label>
   <MeleeWeapon_ChampionFlail.tools.1.label>head</MeleeWeapon_ChampionFlail.tools.1.label>
-
-
 </LanguageData>
