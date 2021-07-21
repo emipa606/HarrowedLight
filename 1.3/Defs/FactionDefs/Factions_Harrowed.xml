@@ -8,6 +8,7 @@
     <permanentEnemy>true</permanentEnemy>
     <settlementGenerationWeight>0.5</settlementGenerationWeight>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <canMakeRandomly>true</canMakeRandomly>
     <raidCommonalityFromPointsCurve>
       <points>
