@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- ======================= Bullet types ======================= -->
-  <ThingDef Name="BaseHarrowGun" ParentName="BaseGun" Abstract="True">
+  <ThingDef Name="BaseHarrowGun" ParentName="BaseMakeableGun" Abstract="True">
     <recipeMaker>
       <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>

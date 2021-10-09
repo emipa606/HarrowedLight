@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Harrowed Light (Continued)</name>
   <packageId>Mlie.HarrowedLight</packageId>
@@ -11,11 +11,11 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Hessras mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1229377025
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
@@ -24,7 +24,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1229377025
 	[/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [b]The current version includes :[/b]
 [list][b]The Harrow[/b], a faction of religious zealots that aim to purify the existence of all that is unholy within your colony. Starting with your very colonists&amp;apos; earthly vessels. To do so they use an assortment of goody-goods ! Thuribles, whips, flamethrowers and...candle holders ?[/list]
@@ -41,7 +41,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1229377025
 [list]Use the Camera+ mod.[/list]
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -50,6 +50,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1229377025
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>
