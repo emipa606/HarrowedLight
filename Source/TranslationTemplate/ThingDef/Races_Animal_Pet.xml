@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bloodhound -->
+  <Bloodhound.label>bloodhound</Bloodhound.label>
+  <!-- EN: A large hound originally bred for hunting. -->
+  <Bloodhound.description>A large hound originally bred for hunting.</Bloodhound.description>
+  <!-- EN: left paw -->
+  <Bloodhound.tools.left_paw.label>left paw</Bloodhound.tools.left_paw.label>
+  <!-- EN: right paw -->
+  <Bloodhound.tools.right_paw.label>right paw</Bloodhound.tools.right_paw.label>
+  <!-- EN: head -->
+  <Bloodhound.tools.head.label>head</Bloodhound.tools.head.label>
+</LanguageData>

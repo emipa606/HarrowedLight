@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: baptized female -->
+  <HarrowedBaptizedFemale.label>baptized female</HarrowedBaptizedFemale.label>
+  <HarrowedBaptizedFemale.labelFemale />
+  <HarrowedBaptizedFemale.labelFemalePlural />
+  <HarrowedBaptizedFemale.labelMale />
+  <HarrowedBaptizedFemale.labelMalePlural />
+  <HarrowedBaptizedFemale.labelPlural />
+  <!-- EN: champion -->
+  <HarrowedChampion.label>champion</HarrowedChampion.label>
+  <HarrowedChampion.labelPlural />
+  <!-- EN: commander -->
+  <HarrowedCommander.label>commander</HarrowedCommander.label>
+  <HarrowedCommander.labelPlural />
+  <!-- EN: flagellant -->
+  <HarrowedFlagellant.label>flagellant</HarrowedFlagellant.label>
+  <HarrowedFlagellant.labelPlural />
+  <!-- EN: leader -->
+  <HarrowedLeader.label>leader</HarrowedLeader.label>
+  <HarrowedLeader.labelPlural />
+  <!-- EN: harrowed madman -->
+  <HarrowedMadman.label>harrowed madman</HarrowedMadman.label>
+  <HarrowedMadman.labelFemale />
+  <HarrowedMadman.labelFemalePlural />
+  <HarrowedMadman.labelMale />
+  <HarrowedMadman.labelMalePlural />
+  <HarrowedMadman.labelPlural />
+  <!-- EN: militant -->
+  <HarrowedMilitant.label>militant</HarrowedMilitant.label>
+  <HarrowedMilitant.labelPlural />
+  <!-- EN: plague cleanser -->
+  <HarrowedPlagueCleanser.label>plague cleanser</HarrowedPlagueCleanser.label>
+  <HarrowedPlagueCleanser.labelPlural />
+  <!-- EN: plague eradicator -->
+  <HarrowedPlagueEradicator.label>plague eradicator</HarrowedPlagueEradicator.label>
+  <HarrowedPlagueEradicator.labelPlural />
+  <!-- EN: priest -->
+  <HarrowedPriest.label>priest</HarrowedPriest.label>
+  <HarrowedPriest.labelPlural />
+  <!-- EN: purger -->
+  <HarrowedPurger.label>purger</HarrowedPurger.label>
+  <HarrowedPurger.labelPlural />
+</LanguageData>

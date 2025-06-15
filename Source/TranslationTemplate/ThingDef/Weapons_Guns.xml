@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: lightning bolt -->
+  <Bullet_Fulger.label>lightning bolt</Bullet_Fulger.label>
+  <!-- EN: fist shotgun blast -->
+  <Bullet_HarrowFistShotgun.label>fist shotgun blast</Bullet_HarrowFistShotgun.label>
+  <!-- EN: flame -->
+  <Bullet_Purifier.label>flame</Bullet_Purifier.label>
+  <!-- EN: Fulger lightning gun -->
+  <Gun_Fulger.label>Fulger lightning gun</Gun_Fulger.label>
+  <!-- EN: Tame and weaponize the forces of nature. -->
+  <Gun_Fulger.description>Tame and weaponize the forces of nature.</Gun_Fulger.description>
+  <!-- EN: stock -->
+  <Gun_Fulger.tools.stock.label>stock</Gun_Fulger.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Fulger.tools.barrel.label>barrel</Gun_Fulger.tools.barrel.label>
+  <!-- EN: Fulger lightning gun -->
+  <Gun_Fulger.verbs.Verb_Shoot.label>Fulger lightning gun</Gun_Fulger.verbs.Verb_Shoot.label>
+  <!-- EN: fist shotgun -->
+  <Gun_HarrowFistShotgun.label>fist shotgun</Gun_HarrowFistShotgun.label>
+  <!-- EN: An adorned shotgun variant that wraps around one's fist. -->
+  <Gun_HarrowFistShotgun.description>An adorned shotgun variant that wraps around one's fist.</Gun_HarrowFistShotgun.description>
+  <!-- EN: barrel -->
+  <Gun_HarrowFistShotgun.tools.barrel.label>barrel</Gun_HarrowFistShotgun.tools.barrel.label>
+  <!-- EN: fist shotgun -->
+  <Gun_HarrowFistShotgun.verbs.Verb_Shoot.label>fist shotgun</Gun_HarrowFistShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: purifier -->
+  <Gun_HarrowPurifier.label>purifier</Gun_HarrowPurifier.label>
+  <!-- EN: Sanctified fire. -->
+  <Gun_HarrowPurifier.description>Sanctified fire.</Gun_HarrowPurifier.description>
+  <!-- EN: barrel -->
+  <Gun_HarrowPurifier.tools.barrel.label>barrel</Gun_HarrowPurifier.tools.barrel.label>
+  <!-- EN: purifier -->
+  <Gun_HarrowPurifier.verbs.Verb_Shoot.label>purifier</Gun_HarrowPurifier.verbs.Verb_Shoot.label>
+  <!-- EN: Ocelot -->
+  <Gun_OcelotRifle.label>Ocelot</Gun_OcelotRifle.label>
+  <!-- EN: A powerful sniper rifle with a cylinder. -->
+  <Gun_OcelotRifle.description>A powerful sniper rifle with a cylinder.</Gun_OcelotRifle.description>
+  <!-- EN: stock -->
+  <Gun_OcelotRifle.tools.stock.label>stock</Gun_OcelotRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_OcelotRifle.tools.barrel.label>barrel</Gun_OcelotRifle.tools.barrel.label>
+  <!-- EN: Ocelot -->
+  <Gun_OcelotRifle.verbs.Verb_Shoot.label>Ocelot</Gun_OcelotRifle.verbs.Verb_Shoot.label>
+  <!-- EN: The Cure -->
+  <Gun_TheCure.label>The Cure</Gun_TheCure.label>
+  <!-- EN: An assault rifle used by the plague eradicators to cleanse rowdy infected. -->
+  <Gun_TheCure.description>An assault rifle used by the plague eradicators to cleanse rowdy infected.</Gun_TheCure.description>
+  <!-- EN: stock -->
+  <Gun_TheCure.tools.stock.label>stock</Gun_TheCure.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_TheCure.tools.barrel.label>barrel</Gun_TheCure.tools.barrel.label>
+  <!-- EN: The Cure -->
+  <Gun_TheCure.verbs.Verb_Shoot.label>The Cure</Gun_TheCure.verbs.Verb_Shoot.label>
+</LanguageData>

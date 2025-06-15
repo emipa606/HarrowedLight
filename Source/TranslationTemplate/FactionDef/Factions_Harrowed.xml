@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Harrow conglomerate -->
+  <Harrowed.label>Harrow conglomerate</Harrowed.label>
+  <!-- EN: Mysterious beliefs grow anew in distant worlds. Such The Harrow came to be. With fire and incense they seek to spread their faith among the denizens of this wretched planet. -->
+  <Harrowed.description>Mysterious beliefs grow anew in distant worlds. Such The Harrow came to be. With fire and incense they seek to spread their faith among the denizens of this wretched planet.</Harrowed.description>
+  <!-- EN: pontif -->
+  <Harrowed.leaderTitle>pontif</Harrowed.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Harrowed.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Harrowed.messageDefendersAttacking>
+  <!-- EN: member -->
+  <Harrowed.pawnSingular>member</Harrowed.pawnSingular>
+  <!-- EN: harrowed -->
+  <Harrowed.pawnsPlural>harrowed</Harrowed.pawnsPlural>
+</LanguageData>

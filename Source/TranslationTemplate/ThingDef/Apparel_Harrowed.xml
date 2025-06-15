@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cassock -->
+  <Apparel_HarrowedCassock.label>cassock</Apparel_HarrowedCassock.label>
+  <!-- EN: An ankle-length garment. -->
+  <Apparel_HarrowedCassock.description>An ankle-length garment.</Apparel_HarrowedCassock.description>
+  <!-- EN: commander armor -->
+  <Apparel_HarrowedCommander.label>commander armor</Apparel_HarrowedCommander.label>
+  <!-- EN: A suit of armor worn by high ranking Harrowed. -->
+  <Apparel_HarrowedCommander.description>A suit of armor worn by high ranking Harrowed.</Apparel_HarrowedCommander.description>
+  <!-- EN: harrowed commander mask  -->
+  <Apparel_HarrowedCommanderMask.label>harrowed commander mask </Apparel_HarrowedCommanderMask.label>
+  <!-- EN: A full helmet worn by high ranking Harrowed. -->
+  <Apparel_HarrowedCommanderMask.description>A full helmet worn by high ranking Harrowed.</Apparel_HarrowedCommanderMask.description>
+  <!-- EN: flagellant hood -->
+  <Apparel_HFmask.label>flagellant hood</Apparel_HFmask.label>
+  <!-- EN: A hood that gives off the aroma of different herbs, blood and sweat. -->
+  <Apparel_HFmask.description>A hood that gives off the aroma of different herbs, blood and sweat.</Apparel_HFmask.description>
+  <!-- EN: pristine armor -->
+  <Apparel_HGold.label>pristine armor</Apparel_HGold.label>
+  <!-- EN: An ancient suit of armor. -->
+  <Apparel_HGold.description>An ancient suit of armor.</Apparel_HGold.description>
+  <!-- EN: pristine owl helmet -->
+  <Apparel_HOwl.label>pristine owl helmet</Apparel_HOwl.label>
+  <!-- EN: A masterfully ornated owl helmet. -->
+  <Apparel_HOwl.description>A masterfully ornated owl helmet.</Apparel_HOwl.description>
+  <!-- EN: purger helmet -->
+  <Apparel_HPmask.label>purger helmet</Apparel_HPmask.label>
+  <!-- EN: A baggy looking helmet filled with an assortment of herbs. -->
+  <Apparel_HPmask.description>A baggy looking helmet filled with an assortment of herbs.</Apparel_HPmask.description>
+  <!-- EN: purger exosuit -->
+  <Apparel_HPsuit.label>purger exosuit</Apparel_HPsuit.label>
+  <!-- EN: A flame retardant exosuit. -->
+  <Apparel_HPsuit.description>A flame retardant exosuit.</Apparel_HPsuit.description>
+  <!-- EN: militant veil -->
+  <Apparel_MilitantVeil.label>militant veil</Apparel_MilitantVeil.label>
+  <!-- EN: A metal helmet adorned with a flowing, red veil. -->
+  <Apparel_MilitantVeil.description>A metal helmet adorned with a flowing, red veil.</Apparel_MilitantVeil.description>
+  <!-- EN: peaked priest hat -->
+  <Apparel_PeakedHat.label>peaked priest hat</Apparel_PeakedHat.label>
+  <!-- EN: A pointy hat traditionally worn by high-ranking harrowed. -->
+  <Apparel_PeakedHat.description>A pointy hat traditionally worn by high-ranking harrowed.</Apparel_PeakedHat.description>
+  <!-- EN: peaked hat -->
+  <Apparel_PeakedHatTwo.label>peaked hat</Apparel_PeakedHatTwo.label>
+  <!-- EN: A pointy hat traditionally worn by harrowed. -->
+  <Apparel_PeakedHatTwo.description>A pointy hat traditionally worn by harrowed.</Apparel_PeakedHatTwo.description>
+  <!-- EN: plague eradicator armor -->
+  <Apparel_PlagueEradicatorArmor.label>plague eradicator armor</Apparel_PlagueEradicatorArmor.label>
+  <!-- EN: A relic of times long past, of times where disease and pestilence swept the land with fury beyond human understanding. -->
+  <Apparel_PlagueEradicatorArmor.description>A relic of times long past, of times where disease and pestilence swept the land with fury beyond human understanding.</Apparel_PlagueEradicatorArmor.description>
+  <!-- EN: plague eradicator helmet -->
+  <Apparel_PlagueEradicatorHelmet.label>plague eradicator helmet</Apparel_PlagueEradicatorHelmet.label>
+  <!-- EN: As the white horse roared across the lands a particular oppulent, noble house took it upon themselves to purge the filth and disease wherever they rode. This rusty helmet belonged to one of such plague eradicators, a relic of hardships that passed and of hardships that are yet to arrive. -->
+  <Apparel_PlagueEradicatorHelmet.description>As the white horse roared across the lands a particular oppulent, noble house took it upon themselves to purge the filth and disease wherever they rode. This rusty helmet belonged to one of such plague eradicators, a relic of hardships that passed and of hardships that are yet to arrive.</Apparel_PlagueEradicatorHelmet.description>
+  <!-- EN: plague eradicator armet -->
+  <Apparel_PlagueEradicatorHelmetTwo.label>plague eradicator armet</Apparel_PlagueEradicatorHelmetTwo.label>
+  <!-- EN: As the white horse roared across the lands the people took up arms to fight back. Iron and blood sprawled across the soil. -->
+  <Apparel_PlagueEradicatorHelmetTwo.description>As the white horse roared across the lands the people took up arms to fight back. Iron and blood sprawled across the soil.</Apparel_PlagueEradicatorHelmetTwo.description>
+</LanguageData>

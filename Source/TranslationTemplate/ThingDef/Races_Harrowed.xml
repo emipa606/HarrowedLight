@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: baptized female -->
+  <Harrowed_Baptized.label>baptized female</Harrowed_Baptized.label>
+  <!-- EN: A Harrowed cultist that has completly offered herself to the primordial gods. -->
+  <Harrowed_Baptized.description>A Harrowed cultist that has completly offered herself to the primordial gods.</Harrowed_Baptized.description>
+  <!-- EN: left tentacle -->
+  <Harrowed_Baptized.tools.left_tentacle.label>left tentacle</Harrowed_Baptized.tools.left_tentacle.label>
+  <!-- EN: right tentacle -->
+  <Harrowed_Baptized.tools.right_tentacle.label>right tentacle</Harrowed_Baptized.tools.right_tentacle.label>
+  <!-- EN: left fist -->
+  <Harrowed_Baptized.tools.left_fist.label>left fist</Harrowed_Baptized.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Harrowed_Baptized.tools.right_fist.label>right fist</Harrowed_Baptized.tools.right_fist.label>
+  <!-- EN: head -->
+  <Harrowed_Baptized.tools.head.label>head</Harrowed_Baptized.tools.head.label>
+  <!-- EN: madman -->
+  <Harrowed_Madman.label>madman</Harrowed_Madman.label>
+  <!-- EN: A rambling maniac wielding a massive wooden object of worship. -->
+  <Harrowed_Madman.description>A rambling maniac wielding a massive wooden object of worship.</Harrowed_Madman.description>
+  <!-- EN: object of worship -->
+  <Harrowed_Madman.tools.object_of_worship.label>object of worship</Harrowed_Madman.tools.object_of_worship.label>
+  <!-- EN: head -->
+  <Harrowed_Madman.tools.head.label>head</Harrowed_Madman.tools.head.label>
+</LanguageData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: banner -->
+  <MeleeWeapon_Banner.label>banner</MeleeWeapon_Banner.label>
+  <!-- EN: A weather-worn, hand-painted Harrow banner with a sharp tip. -->
+  <MeleeWeapon_Banner.description>A weather-worn, hand-painted Harrow banner with a sharp tip.</MeleeWeapon_Banner.description>
+  <!-- EN: shaft -->
+  <MeleeWeapon_Banner.tools.shaft.label>shaft</MeleeWeapon_Banner.tools.shaft.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Banner.tools.point.label>point</MeleeWeapon_Banner.tools.point.label>
+  <!-- EN: candle holder -->
+  <MeleeWeapon_CandleHolder.label>candle holder</MeleeWeapon_CandleHolder.label>
+  <!-- EN: A large candlestick. -->
+  <MeleeWeapon_CandleHolder.description>A large candlestick.</MeleeWeapon_CandleHolder.description>
+  <!-- EN: shaft -->
+  <MeleeWeapon_CandleHolder.tools.shaft.label>shaft</MeleeWeapon_CandleHolder.tools.shaft.label>
+  <!-- EN: champion's flail -->
+  <MeleeWeapon_ChampionFlail.label>champion's flail</MeleeWeapon_ChampionFlail.label>
+  <!-- EN: A massive flail. -->
+  <MeleeWeapon_ChampionFlail.description>A massive flail.</MeleeWeapon_ChampionFlail.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_ChampionFlail.tools.handle.label>handle</MeleeWeapon_ChampionFlail.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_ChampionFlail.tools.head.label>head</MeleeWeapon_ChampionFlail.tools.head.label>
+  <!-- EN: champion's sword -->
+  <MeleeWeapon_ChampionSword.label>champion's sword</MeleeWeapon_ChampionSword.label>
+  <!-- EN: A glistening sword. -->
+  <MeleeWeapon_ChampionSword.description>A glistening sword.</MeleeWeapon_ChampionSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_ChampionSword.tools.handle.label>handle</MeleeWeapon_ChampionSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_ChampionSword.tools.point.label>point</MeleeWeapon_ChampionSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_ChampionSword.tools.edge.label>edge</MeleeWeapon_ChampionSword.tools.edge.label>
+  <!-- EN: crosier -->
+  <MeleeWeapon_Crosier.label>crosier</MeleeWeapon_Crosier.label>
+  <!-- EN: A beautiful staff. -->
+  <MeleeWeapon_Crosier.description>A beautiful staff.</MeleeWeapon_Crosier.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Crosier.tools.handle.label>handle</MeleeWeapon_Crosier.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Crosier.tools.head.label>head</MeleeWeapon_Crosier.tools.head.label>
+  <!-- EN: stake -->
+  <MeleeWeapon_Stake.label>stake</MeleeWeapon_Stake.label>
+  <!-- EN: A stake. -->
+  <MeleeWeapon_Stake.description>A stake.</MeleeWeapon_Stake.description>
+  <!-- EN: point -->
+  <MeleeWeapon_Stake.tools.point.label>point</MeleeWeapon_Stake.tools.point.label>
+  <!-- EN: thurible -->
+  <MeleeWeapon_Thurible.label>thurible</MeleeWeapon_Thurible.label>
+  <!-- EN: A shiny incense burner. -->
+  <MeleeWeapon_Thurible.description>A shiny incense burner.</MeleeWeapon_Thurible.description>
+  <!-- EN: censer -->
+  <MeleeWeapon_Thurible.tools.censer.label>censer</MeleeWeapon_Thurible.tools.censer.label>
+  <!-- EN: whip -->
+  <MeleeWeapon_Whip.label>whip</MeleeWeapon_Whip.label>
+  <!-- EN: A worn leather whip. -->
+  <MeleeWeapon_Whip.description>A worn leather whip.</MeleeWeapon_Whip.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Whip.tools.handle.label>handle</MeleeWeapon_Whip.tools.handle.label>
+  <!-- EN: lashes -->
+  <MeleeWeapon_Whip.tools.lashes.label>lashes</MeleeWeapon_Whip.tools.lashes.label>
+</LanguageData>

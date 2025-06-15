@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: holy fire canister -->
+  <Proj_HolyFire.label>holy fire canister</Proj_HolyFire.label>
+  <!-- EN: holy fire canisters -->
+  <Weapon_HolyFire.label>holy fire canisters</Weapon_HolyFire.label>
+  <!-- EN: Old gas canisters filled with a flamable mix. -->
+  <Weapon_HolyFire.description>Old gas canisters filled with a flamable mix.</Weapon_HolyFire.description>
+  <!-- EN: throw holy fire canister -->
+  <Weapon_HolyFire.verbs.throw_holy_fire_canister.label>throw holy fire canister</Weapon_HolyFire.verbs.throw_holy_fire_canister.label>
+</LanguageData>

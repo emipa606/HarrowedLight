@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bloodhound -->
+  <Bloodhound.label>bloodhound</Bloodhound.label>
+  <Bloodhound.labelFemale />
+  <Bloodhound.labelFemalePlural />
+  <Bloodhound.labelMale />
+  <Bloodhound.labelMalePlural />
+  <!-- EN: bloodhounds -->
+  <Bloodhound.labelPlural>bloodhounds</Bloodhound.labelPlural>
+  <!-- EN: bloodhound puppy -->
+  <Bloodhound.lifeStages.bloodhound_puppy.label>bloodhound puppy</Bloodhound.lifeStages.bloodhound_puppy.label>
+  <Bloodhound.lifeStages.bloodhound_puppy.labelFemale />
+  <Bloodhound.lifeStages.bloodhound_puppy.labelFemalePlural />
+  <Bloodhound.lifeStages.bloodhound_puppy.labelMale />
+  <Bloodhound.lifeStages.bloodhound_puppy.labelMalePlural />
+  <!-- EN: bloodhound puppies -->
+  <Bloodhound.lifeStages.bloodhound_puppy.labelPlural>bloodhound puppies</Bloodhound.lifeStages.bloodhound_puppy.labelPlural>
+  <Bloodhound.lifeStages.1.label />
+  <Bloodhound.lifeStages.1.labelFemale />
+  <Bloodhound.lifeStages.1.labelFemalePlural />
+  <Bloodhound.lifeStages.1.labelMale />
+  <Bloodhound.lifeStages.1.labelMalePlural />
+  <Bloodhound.lifeStages.1.labelPlural />
+  <Bloodhound.lifeStages.2.label />
+  <Bloodhound.lifeStages.2.labelFemale />
+  <Bloodhound.lifeStages.2.labelFemalePlural />
+  <Bloodhound.lifeStages.2.labelMale />
+  <Bloodhound.lifeStages.2.labelMalePlural />
+  <Bloodhound.lifeStages.2.labelPlural />
+</LanguageData>
